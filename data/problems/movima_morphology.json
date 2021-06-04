@@ -1,0 +1,228 @@
+{
+    "languages": [
+        "Movima"
+    ],
+    "families": [
+        "Movima"
+    ],
+    "type": "morphology",
+    "ipa": false,
+    "columns": [
+        "base form",
+        "negative form"
+    ],
+    "data": [
+        [
+            "m a r o p a",
+            "k a s  m a r o k a ’ p a"
+        ],
+        [
+            "j o y",
+            "k a s  j o y aː y a ’"
+        ],
+        [
+            "b iː l a w",
+            "k a s  b i k a ’ l a w"
+        ],
+        [
+            "d e l t oː v e ń",
+            "k a s  d e l a ’ t oː v e ń"
+        ],
+        [
+            "i t i l a k w a n č iː y e",
+            "k a s  i t i k a ’ l a k w a n č iː y e"
+        ],
+        [
+            "e ł a n",
+            "k a s  e ł a n aː n a ’"
+        ],
+        [
+            "l o p aː v o s",
+            "k a s  l o p a k a ’ v o s"
+        ],
+        [
+            "j i w a",
+            "k a s  j i w a k aː k a ’"
+        ],
+        [
+            "b a k w a n y i ń",
+            "k a s  b a k w a n a ’ y i ń"
+        ],
+        [
+            "t a l u m m o",
+            "k a s  t a l u m a ’ m o"
+        ],
+        [
+            "t oː m i",
+            "k a s  t o k a ’ m i"
+        ],
+        [
+            "e n",
+            "k a s  e n aː n a ’"
+        ],
+        [
+            "v u s k w a",
+            "k a s  v u s a ’ k w a"
+        ],
+        [
+            "w aː k a t oː d a",
+            "k a s  w a k a ’ k a t oː d a"
+        ],
+        [
+            "a s",
+            "?"
+        ],
+        [
+            "e n f e r m eː r a",
+            "?"
+        ],
+        [
+            "j i ł aː p a",
+            "?"
+        ],
+        [
+            "d e",
+            "?"
+        ],
+        [
+            "r u l r u l",
+            "?"
+        ],
+        [
+            "t i p o y s uː d a",
+            "?"
+        ],
+        [
+            "?",
+            "k a s  w u r u l aː l a ’"
+        ],
+        [
+            "?",
+            "k a s  d e w a j a ’ n a"
+        ],
+        [
+            "?",
+            "k a s  d e k a ’ w a j n a"
+        ]
+    ],
+    "notes": "",
+    "test_set": true,
+    "features": {
+        "s": {
+            "cons": true,
+            "vowel": false
+        },
+        "v": {
+            "cons": true,
+            "vowel": false
+        },
+        "a": {
+            "cons": false,
+            "vowel": true
+        },
+        "eː": {
+            "cons": false,
+            "vowel": true
+        },
+        "w": {
+            "cons": true,
+            "vowel": false
+        },
+        "aː": {
+            "cons": false,
+            "vowel": true
+        },
+        "f": {
+            "cons": true,
+            "vowel": false
+        },
+        "ń": {
+            "cons": true,
+            "vowel": false
+        },
+        "oː": {
+            "cons": false,
+            "vowel": true
+        },
+        "d": {
+            "cons": true,
+            "vowel": false
+        },
+        "m": {
+            "cons": true,
+            "vowel": false
+        },
+        "k": {
+            "cons": true,
+            "vowel": false
+        },
+        "ł": {
+            "cons": true,
+            "vowel": false
+        },
+        "y": {
+            "cons": true,
+            "vowel": false
+        },
+        "’": {
+            "cons": true,
+            "vowel": false
+        },
+        "č": {
+            "cons": true,
+            "vowel": false
+        },
+        "e": {
+            "cons": false,
+            "vowel": true
+        },
+        "n": {
+            "cons": true,
+            "vowel": false
+        },
+        "l": {
+            "cons": true,
+            "vowel": false
+        },
+        "o": {
+            "cons": false,
+            "vowel": true
+        },
+        "uː": {
+            "cons": false,
+            "vowel": true
+        },
+        "j": {
+            "cons": true,
+            "vowel": false
+        },
+        "b": {
+            "cons": true,
+            "vowel": false
+        },
+        "iː": {
+            "cons": false,
+            "vowel": true
+        },
+        "p": {
+            "cons": true,
+            "vowel": false
+        },
+        "u": {
+            "cons": false,
+            "vowel": true
+        },
+        "r": {
+            "cons": true,
+            "vowel": false
+        },
+        "t": {
+            "cons": true,
+            "vowel": false
+        },
+        "i": {
+            "cons": false,
+            "vowel": true
+        }
+    }
+}

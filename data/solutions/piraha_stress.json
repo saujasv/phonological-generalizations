@@ -1,0 +1,251 @@
+{
+    "languages": [
+        "Piraha"
+    ],
+    "families": [
+        "Mura"
+    ],
+    "type": "stress",
+    "ipa": false,
+    "columns": [
+        "Word",
+        "Stress placement"
+    ],
+    "data": [
+        [
+            "b a . g i a . b a a . b i",
+            "0 0 0 0 0 0 0 0 1 0 0 0 0"
+        ],
+        [
+            "b a . h o i . g a . t o i",
+            "0 0 0 0 0 0 0 0 0 0 0 1 0"
+        ],
+        [
+            "b a . h o i . g a . t o . b a i . h i i . g i",
+            "0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0"
+        ],
+        [
+            "g i o . p a i",
+            "0 0 0 0 0 1 0"
+        ],
+        [
+            "g i o . p a . h o i . g i",
+            "0 0 0 0 0 0 0 0 1 0 0 0 0"
+        ],
+        [
+            "g i o . p a . s a . b i",
+            "0 0 0 0 0 0 0 0 1 0 0 0"
+        ],
+        [
+            "g i o . p a . a i . b o . g i",
+            "0 2 0 0 0 0 0 1 0 0 0 0 0 0 0"
+        ],
+        [
+            "h i . ʔ i",
+            "0 0 0 0 1"
+        ],
+        [
+            "h i . ʔ i i . t a i . ʔ i",
+            "0 0 0 0 0 0 0 0 1 0 0 0 0"
+        ],
+        [
+            "k a . g a . h o . a o . g i . t o . i o",
+            "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0"
+        ],
+        [
+            "k a . g a i . h i . a i",
+            "0 0 0 0 1 0 0 0 0 0 0 0"
+        ],
+        [
+            "k a . g a i . h i a . b a a . g i . s o",
+            "0 0 0 0 0 0 0 0 2 0 0 0 1 0 0 0 0 0 0 0"
+        ],
+        [
+            "k a . g a i . h i a . a i . b o . g i",
+            "0 0 0 0 0 0 0 0 2 0 0 1 0 0 0 0 0 0 0"
+        ],
+        [
+            "k a . g i . h i",
+            "0 0 0 0 0 0 0 1"
+        ],
+        [
+            "k a . h a . b a i . h i i . g i",
+            "0 0 0 0 2 0 0 0 0 0 0 1 0 0 0 0"
+        ],
+        [
+            "k a i . b a o . g i . a i",
+            "0 0 0 0 0 1 0 0 0 0 0 0 0"
+        ],
+        [
+            "k a o . a i . b o . g i",
+            "0 0 0 0 1 0 0 0 0 0 0 0"
+        ],
+        [
+            "k a o . a i . b o . g i . s a b i",
+            "0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0"
+        ],
+        [
+            "k o . ʔ o . p a",
+            "0 0 0 0 0 0 0 1"
+        ],
+        [
+            "p i a . h a o . g i . ʔ i . s o . a i . p i",
+            "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0"
+        ],
+        [
+            "p o o . g a i . h i . a i",
+            "0 0 0 0 0 1 0 0 0 0 0 0 0"
+        ],
+        [
+            "t a . g a . s a . g a",
+            "0 0 0 0 0 0 0 1 0 0 0"
+        ],
+        [
+            "ʔ a . b a . g i",
+            "0 1 0 0 0 0 0 0"
+        ],
+        [
+            "ʔ a . b a . g i . g i i . s a i",
+            "0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0"
+        ],
+        [
+            "ʔ a . g a i",
+            "0 0 0 0 1 0"
+        ],
+        [
+            "ʔ a o . g i i",
+            "0 1 0 0 0 0 0"
+        ],
+        [
+            "ʔ i . b o . g i",
+            "0 1 0 0 0 0 0 0"
+        ],
+        [
+            "ʔ i . g a",
+            "0 1 0 0 0"
+        ],
+        [
+            "ʔ i i . a a . p i . s i",
+            "0 0 0 0 1 0 0 0 0 0 0 0"
+        ],
+        [
+            "ʔ i . s i . p o . a i",
+            "0 0 0 0 0 0 0 0 0 1 0"
+        ],
+        [
+            "ʔ i . s i . t a a . g a i",
+            "0 0 0 0 0 0 0 1 0 0 0 0 0"
+        ],
+        [
+            "ʔ i . s o o . b a i",
+            "0 0 0 0 1 0 0 0 0 0"
+        ],
+        [
+            "ʔ o . g i . a i",
+            "0 0 0 0 0 0 1 0"
+        ],
+        [
+            "ʔ a . a i . b i",
+            "0 0 0 1 0 0 0 0"
+        ],
+        [
+            "ʔ a a . p i . s i",
+            "0 1 0 0 0 0 0 0 0"
+        ],
+        [
+            "ʔ i . t i i . ʔ i . s i",
+            "0 0 0 0 1 0 0 0 0 0 0 0"
+        ],
+        [
+            "b i . g i",
+            "0 0 0 0 1"
+        ],
+        [
+            "k a . g a . h o . a o . g i i",
+            "0 0 0 0 0 0 0 0 0 0 0 0 0 1 0"
+        ],
+        [
+            "k a i . b a i",
+            "0 1 0 0 0 0 0"
+        ],
+        [
+            "k a . p i i . g a . i i . t o . i i",
+            "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0"
+        ],
+        [
+            "p o o . g a i . h i a . t o . i o",
+            "0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0"
+        ],
+        [
+            "ʔ a . b a . g i . k a . p i o . ʔ i o",
+            "0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0"
+        ],
+        [
+            "ʔ a . b a . g i o . g i . a i",
+            "0 0 0 0 0 0 0 1 0 0 0 0 0 0 0"
+        ]
+    ],
+    "notes": "[ʔ] is a consonant (known as the glottal stop). [h] =h in Englishhat. The mark “ . ” showssyllable boundaries. The mark “1” before a syllable indicates primary stress. The mark “2”before a syllable indicates secondary stress (if there is one).",
+    "test_set": true,
+    "features": {
+        "ʔ": {
+            "cons": true,
+            "vowel": false
+        },
+        "a": {
+            "vowel": true,
+            "cons": false
+        },
+        "t": {
+            "cons": true,
+            "vowel": false
+        },
+        "s": {
+            "cons": true,
+            "vowel": false
+        },
+        "1": {
+            "primary": true,
+            "secondary": false
+        },
+        "o": {
+            "vowel": true,
+            "cons": false
+        },
+        "2": {
+            "primary": false,
+            "secondary": true
+        },
+        "i": {
+            "vowel": true,
+            "cons": false
+        },
+        "b": {
+            "cons": true,
+            "vowel": false
+        },
+        "0": {
+            "primary": false,
+            "secondary": false
+        },
+        ".": {
+            "syllable-break": true
+        },
+        "p": {
+            "cons": true,
+            "vowel": false
+        },
+        "k": {
+            "cons": true,
+            "vowel": false
+        },
+        "g": {
+            "cons": true,
+            "vowel": false
+        },
+        "h": {
+            "cons": true,
+            "vowel": false
+        }
+    }
+}

@@ -1,0 +1,272 @@
+{
+    "languages": [
+        "Estonian"
+    ],
+    "families": [
+        "Uralic"
+    ],
+    "type": "morphology",
+    "ipa": false,
+    "columns": [
+        "Genitive singular",
+        "Partitive singular",
+        "Adessive singular",
+        "Nominative plural",
+        "Genitive plural",
+        "Adessive plural"
+    ],
+    "data": [
+        [
+            "m a j a",
+            "m a j a",
+            "m a j a l",
+            "m a j a d",
+            "m a j a d e",
+            "m a j a d e l"
+        ],
+        [
+            "p e s a",
+            "p e s a",
+            "p e s a l",
+            "p e s a d",
+            "p e s a d e",
+            "p e s a d e l"
+        ],
+        [
+            "l a u l j a",
+            "l a u l j a t",
+            "l a u l j a l",
+            "l a u l j a d",
+            "l a u l j a t e",
+            "l a u l j a t e l"
+        ],
+        [
+            "s ö ö k l a",
+            "s ö ö k l a t",
+            "s ö ö k l a l",
+            "s ö ö k l a d",
+            "s ö ö k l a t e",
+            "s ö ö k l a t e l"
+        ],
+        [
+            "n i m e",
+            "n i m e",
+            "n i m e l",
+            "n i m e d",
+            "n i m e d e",
+            "n i m e d e l"
+        ],
+        [
+            "j ä ä",
+            "j ä ä d",
+            "j ä ä l",
+            "j ä ä d",
+            "j ä ä d e",
+            "j ä ä d e l"
+        ],
+        [
+            "s u v e",
+            "s u v e",
+            "s u v e l",
+            "s u v e d",
+            "s u v e d e",
+            "s u v e d e l"
+        ],
+        [
+            "v a l g e",
+            "v a l g e t",
+            "v a l g e l",
+            "v a l g e d",
+            "v a l g e t e",
+            "v a l g e t e l"
+        ],
+        [
+            "õ e",
+            "õ d e",
+            "õ e l",
+            "õ e d",
+            "õ d e d e",
+            "õ d e d e l"
+        ],
+        [
+            "t e e",
+            "t e e d",
+            "t e e l",
+            "t e e d",
+            "t e e d e",
+            "t e e d e l"
+        ],
+        [
+            "s u u r e",
+            "s u u r t",
+            "s u u r e l",
+            "s u u r e d",
+            "s u u r t e",
+            "s u u r t e l"
+        ],
+        [
+            "k o l l a s e",
+            "k o l l a s t",
+            "k o l l a s e l",
+            "k o l l a s e d",
+            "k o l l a s t e",
+            "k o l l a s t e l"
+        ],
+        [
+            "m e h e",
+            "m e e s t",
+            "m e h e l",
+            "m e h e d",
+            "m e e s t e",
+            "m e e s t e l"
+        ],
+        [
+            "o a",
+            "u b a",
+            "o a l",
+            "o a d",
+            "u b a d e",
+            "u b a d e l"
+        ],
+        [
+            "p õ h j u s e",
+            "p õ h j u s t",
+            "p õ h j u s e l",
+            "p õ h j u s e d",
+            "p õ h j u s t e",
+            "p õ h j u s t e l"
+        ],
+        [
+            "l o o",
+            "l u g u",
+            "l o o l",
+            "l o o d",
+            "l u g u d e",
+            "l u g u d e l"
+        ],
+        [
+            "s a a r e",
+            "s a a r t",
+            "s a a r e l",
+            "s a a r e d",
+            "s a a r t e",
+            "s a a r t e l"
+        ],
+        [
+            "k u u",
+            "k u u d",
+            "k u u l",
+            "k u u d",
+            "k u u d e",
+            "k u u d e l"
+        ],
+        [
+            "i n i m e s e",
+            "i n i m e s t",
+            "i n i m e s e l",
+            "i n i m e s e d",
+            "i n i m e s t e",
+            "i n i m e s t e l"
+        ],
+        [
+            "k a l a",
+            "k a l a",
+            "k a l a l",
+            "k a l a d",
+            "k a l a d e",
+            "k a l a d e l"
+        ]
+    ],
+    "notes": "õ, ä, ö, and ü are vowels",
+    "test_set": true,
+    "features": {
+        "s": {
+            "cons": true,
+            "vowel": false
+        },
+        "v": {
+            "cons": true,
+            "vowel": false
+        },
+        "a": {
+            "cons": false,
+            "vowel": true
+        },
+        "m": {
+            "cons": true,
+            "vowel": false
+        },
+        "d": {
+            "cons": true,
+            "vowel": false
+        },
+        "k": {
+            "cons": true,
+            "vowel": false
+        },
+        "g": {
+            "cons": true,
+            "vowel": false
+        },
+        "ö": {
+            "cons": false,
+            "vowel": true
+        },
+        "e": {
+            "cons": false,
+            "vowel": true
+        },
+        "ä": {
+            "cons": false,
+            "vowel": true
+        },
+        "n": {
+            "cons": true,
+            "vowel": false
+        },
+        "h": {
+            "cons": true,
+            "vowel": false
+        },
+        "õ": {
+            "cons": false,
+            "vowel": true
+        },
+        "l": {
+            "cons": true,
+            "vowel": false
+        },
+        "o": {
+            "cons": false,
+            "vowel": true
+        },
+        "j": {
+            "cons": true,
+            "vowel": false
+        },
+        "b": {
+            "cons": true,
+            "vowel": false
+        },
+        "p": {
+            "cons": true,
+            "vowel": false
+        },
+        "u": {
+            "cons": false,
+            "vowel": true
+        },
+        "r": {
+            "cons": true,
+            "vowel": false
+        },
+        "t": {
+            "cons": true,
+            "vowel": false
+        },
+        "i": {
+            "cons": false,
+            "vowel": true
+        }
+    }
+}

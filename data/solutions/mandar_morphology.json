@@ -1,0 +1,51 @@
+{
+  "languages": [
+    "Mandar"
+  ],
+  "families": [
+    "Austronesian"
+  ],
+  "type": "morphology",
+  "ipa": false,
+  "columns": [
+    "to V",
+    "to be Ved"
+  ],
+  "data": [
+    [
+      "m a m b a t t a",
+      "d i b a t t a"
+    ],
+    [
+      "m a n d e ŋ ŋ e q",
+      "d i d e ŋ ŋ e q"
+    ],
+    [
+      "m a ŋ i d a ŋ",
+      "d i i d a ŋ"
+    ],
+    [
+      "m a p p a s u ŋ",
+      "d i p a s u ŋ"
+    ],
+    [
+      "m a t t u n u",
+      "d i t u n u"
+    ],
+    [
+      "m a s s i r a q",
+      "d i s i r a q"
+    ],
+    [
+      "m a t t i m b e",
+      "d i t i m b e"
+    ],
+    [
+      "m a p p a n d e",
+      "d i p a n d e"
+    ]
+  ],
+  "notes": "Place and manner of articulation for m, b, p, f, n, d, t, s, š, ŋ, g, k. Vowels: a, e, i, o, u; Consonants: m, n, ŋ, b, d, g, j, r, l, ǰ, w, y, p, t, k, f, s, ʃ, h, q, č; Nasals: m, n, ŋ; Voiced Consonants: b, d, g, j, r, l, ǰ, w, y, m, n, ŋ; Voiceless Consonants: p, t, k, f, s, š, h, q, č.",
+  "test_set": true,
+  "features": {}
+}

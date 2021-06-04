@@ -1,0 +1,215 @@
+{
+    "languages": [
+        "Budukh"
+    ],
+    "families": [
+        "Nakh-Daghestanian"
+    ],
+    "type": "morphology",
+    "ipa": false,
+    "columns": [
+        "prohibitive mood class 1 (masculine)",
+        "future tense class 1 (masculine)",
+        "future tense class 2 (feminine)"
+    ],
+    "data": [
+        [
+            "a m a r x a r",
+            "a r x a r a",
+            "a r x a r a"
+        ],
+        [
+            "č ö m o r h̨ u c̣ u",
+            "č ö r h̨ u c̣ u r a",
+            ""
+        ],
+        [
+            "č i m e X i",
+            "",
+            "č i r X i r a"
+        ],
+        [
+            "h̨ ü m o č̣ o n x u",
+            "h̨ ü č̣ o n x u n a",
+            "h̨ ü r č̣ o n x u n a"
+        ],
+        [
+            "",
+            "o s u r a",
+            "o r s u r a"
+        ],
+        [
+            "w o m o l ṭ u",
+            "w o l ṭ u l a",
+            ""
+        ],
+        [
+            "h̨ a m e r k i",
+            "h̨ a r k i r a",
+            ""
+        ],
+        [
+            "j ö m ö l k ü",
+            "j ö l k ü l a",
+            "j ö l k ü l a"
+        ],
+        [
+            "q a m a l q̇ a l",
+            "q a l q̇ a l a",
+            ""
+        ],
+        [
+            "q u m o r o X u",
+            "q u r o X u r a",
+            "q u r o X u r a"
+        ],
+        [
+            "s o m o n ḳ o n",
+            "s o n ḳ o n a",
+            "s o n ḳ o n a"
+        ],
+        [
+            "a m o l q̇ o l",
+            "a l q̇ o l a",
+            "a l q̇ o l a"
+        ],
+        [
+            "e m e n s i",
+            "e n s i n a",
+            ""
+        ],
+        [
+            "h̨ ö m ö r č̣ ü",
+            "h̨ ö r č̣ ü r a",
+            ""
+        ],
+        [
+            "č u m a r a q̇ a r",
+            "",
+            "č u r a q̇ a r a"
+        ],
+        [
+            "h̨ a m o l X u",
+            "",
+            "h̨ a l X u l a"
+        ],
+        [
+            "ï m a n k a n",
+            "",
+            "ï n k a n a"
+        ],
+        [
+            "j e m e č̣ i",
+            "",
+            "j e r č̣ i r a"
+        ]
+    ],
+    "notes": "č, č̣, X, h̨, j, ḳ, q̇, š, ṭ, w, x are consonants. ö and ü = French eu and u (German ö and ü); ï ≈ u in but.",
+    "test_set": true,
+    "features": {
+        "ü": {
+            "vowel": true,
+            "cons": false
+        },
+        "m": {
+            "cons": true,
+            "vowel": false
+        },
+        "q": {
+            "cons": true,
+            "vowel": false
+        },
+        "l": {
+            "cons": true,
+            "vowel": false
+        },
+        "ḳ": {
+            "cons": true,
+            "vowel": false
+        },
+        "c̣": {
+            "cons": true,
+            "vowel": false
+        },
+        "q̇": {
+            "cons": true,
+            "vowel": false
+        },
+        "s": {
+            "cons": true,
+            "vowel": false
+        },
+        "u": {
+            "vowel": true,
+            "cons": false
+        },
+        "a": {
+            "vowel": true,
+            "cons": false
+        },
+        "j": {
+            "cons": true,
+            "vowel": false
+        },
+        "ö": {
+            "vowel": true,
+            "cons": false
+        },
+        "o": {
+            "vowel": true,
+            "cons": false
+        },
+        "h̨": {
+            "cons": true,
+            "vowel": false
+        },
+        "ï": {
+            "vowel": true,
+            "cons": false
+        },
+        "r": {
+            "cons": true,
+            "vowel": false
+        },
+        "X": {
+            "cons": true,
+            "vowel": false
+        },
+        "č": {
+            "cons": true,
+            "vowel": false
+        },
+        "č̣": {
+            "cons": true,
+            "vowel": false
+        },
+        "n": {
+            "cons": true,
+            "vowel": false
+        },
+        "x": {
+            "cons": true,
+            "vowel": false
+        },
+        "e": {
+            "vowel": true,
+            "cons": false
+        },
+        "w": {
+            "cons": true,
+            "vowel": false
+        },
+        "i": {
+            "vowel": true,
+            "cons": false
+        },
+        "k": {
+            "cons": true,
+            "vowel": false
+        },
+        "ṭ": {
+            "cons": true,
+            "vowel": false
+        }
+    }
+}

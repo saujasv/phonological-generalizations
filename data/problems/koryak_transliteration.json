@@ -1,0 +1,140 @@
+{
+    "languages": [
+        "Koryak"
+    ],
+    "families": [
+        "Chukotko-Kamchatkan"
+    ],
+    "type": "transliteration",
+    "ipa": false,
+    "columns": [
+        "Koryak",
+        "Russian transliteration"
+    ],
+    "data": [
+        [
+            "e j e k",
+            "э е к"
+        ],
+        [
+            "l i ŋ l i ŋ",
+            "л и ң л и ң"
+        ],
+        [
+            "l’ ə l’ a p ə k",
+            "л ы л я п ы к"
+        ],
+        [
+            "a ŋ j a k",
+            "а ң ъ я к"
+        ],
+        [
+            "q o j a ŋ a",
+            "қ о я ң а"
+        ],
+        [
+            "a m ə l’ l’ o k a",
+            "а м ы л л ё к а"
+        ],
+        [
+            "l’ a ŋ e",
+            "л я ң э"
+        ],
+        [
+            "n’ ə m q ə q i n",
+            "н ы м қ ы қ и н"
+        ],
+        [
+            "l’ u q e j",
+            "л ю қ э й"
+        ],
+        [
+            "p e n’ n’ ə k",
+            "п э н н и к"
+        ],
+        [
+            "w a j a m p i l’",
+            "в’ а я м п и л ь"
+        ],
+        [
+            "ə n n i n",
+            "ы н н и н"
+        ],
+        [
+            "k o k j o l ɣ ə n",
+            "к о к ъ ё л г ы н"
+        ],
+        [
+            "j i ŋ l ə k",
+            "й и ң л ы к"
+        ],
+        [
+            "a l’ v a ŋ",
+            "а л ь в а ң"
+        ],
+        [
+            "t ə n’ n’ i n",
+            "т ы н н и н"
+        ],
+        [
+            "j e j o l ə k",
+            "?"
+        ],
+        [
+            "j u ŋ ə j",
+            "?"
+        ],
+        [
+            "w ə j i l w ə j i l",
+            "?"
+        ],
+        [
+            "q a l’ ɣ a j a k",
+            "?"
+        ],
+        [
+            "l’ ə m ŋ ə l’",
+            "?"
+        ],
+        [
+            "l’ a l’ l’ a l’",
+            "?"
+        ],
+        [
+            "?",
+            "ы н н и в’"
+        ],
+        [
+            "?",
+            "п ы л ы т к у к"
+        ]
+    ],
+    "notes": "The sounds l ’and n’ are pronounced respectively as Russian soft l and n; sound @ - approximately as s; q, G, N, w — special sounds of the Koryak language (partly similar, respectively, to the Russian k, r, n, c).",
+    "test_set": true,
+    "features": {
+        "у": {},
+        "ь": {},
+        "й": {},
+        "и": {},
+        "я": {},
+        "ё": {},
+        "н": {},
+        "к": {},
+        "ъ": {},
+        "е": {},
+        "л": {},
+        "м": {},
+        "в’": {},
+        "г": {},
+        "ю": {},
+        "п": {},
+        "т": {},
+        "о": {},
+        "ң": {},
+        "а": {},
+        "қ": {},
+        "э": {},
+        "ы": {},
+        "в": {}
+    }
+}

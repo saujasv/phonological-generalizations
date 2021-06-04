@@ -1,0 +1,329 @@
+{
+    "languages": [
+        "Quechua"
+    ],
+    "families": [
+        "Quechuan"
+    ],
+    "type": "morphology",
+    "ipa": false,
+    "columns": [
+        "Noun",
+        "Possessive",
+        "Locative"
+    ],
+    "data": [
+        [
+            "k a m",
+            "k a m b a",
+            ""
+        ],
+        [
+            "a t a m",
+            "",
+            "a t a m b i"
+        ],
+        [
+            "h a t u m",
+            "?",
+            "?"
+        ],
+        [
+            "s i n i k",
+            "s i n i k p a",
+            ""
+        ],
+        [
+            "č i l i s",
+            "č i l i s p a",
+            ""
+        ],
+        [
+            "s a č a",
+            "",
+            "s a č a p i"
+        ],
+        [
+            "p u n ǰ a",
+            "",
+            "p u n ǰ a p i"
+        ]
+    ],
+    "notes": "Place and manner of articulation for m, b, p, f, n, d, t, s, š, ŋ, g, k. Vowels: a, e, i, o, u; Consonants: m, n, ŋ, b, d, g, j, r, l, ǰ, w, y, p, t, k, f, s, ʃ, h, q, č; Nasals: m, n, ŋ; Voiced Consonants: b, d, g, j, r, l, ǰ, w, y, m, n, ŋ; Voiceless Consonants: p, t, k, f, s, š, h, q, č.",
+    "test_set": true,
+    "features": {
+        "s": {
+            "cons": true,
+            "vowel": false,
+            "nasal": false,
+            "voiced": false,
+            "stop": false,
+            "fricative": true,
+            "bilabial": false,
+            "labiodental": false,
+            "alveolar": true,
+            "postalveolar": false,
+            "velar": false
+        },
+        "p": {
+            "cons": true,
+            "vowel": false,
+            "nasal": false,
+            "voiced": false,
+            "stop": true,
+            "fricative": false,
+            "bilabial": true,
+            "labiodental": false,
+            "alveolar": false,
+            "postalveolar": false,
+            "velar": false
+        },
+        "h": {
+            "cons": true,
+            "vowel": false,
+            "nasal": false,
+            "voiced": false,
+            "stop": false,
+            "fricative": false,
+            "bilabial": false,
+            "labiodental": false,
+            "alveolar": false,
+            "postalveolar": false,
+            "velar": false
+        },
+        "l": {
+            "cons": true,
+            "vowel": false,
+            "nasal": false,
+            "voiced": false,
+            "stop": false,
+            "fricative": false,
+            "bilabial": false,
+            "labiodental": false,
+            "alveolar": false,
+            "postalveolar": false,
+            "velar": false
+        },
+        "a": {
+            "cons": false,
+            "vowel": true,
+            "nasal": false,
+            "voiced": true,
+            "stop": false,
+            "fricative": false,
+            "bilabial": false,
+            "labiodental": false,
+            "alveolar": false,
+            "postalveolar": false,
+            "velar": false
+        },
+        "u": {
+            "cons": false,
+            "vowel": true,
+            "nasal": false,
+            "voiced": true,
+            "stop": false,
+            "fricative": false,
+            "bilabial": false,
+            "labiodental": false,
+            "alveolar": false,
+            "postalveolar": false,
+            "velar": false
+        },
+        "g": {
+            "cons": true,
+            "vowel": false,
+            "nasal": false,
+            "voiced": true,
+            "stop": true,
+            "fricative": false,
+            "bilabial": false,
+            "labiodental": false,
+            "alveolar": false,
+            "postalveolar": false,
+            "velar": true
+        },
+        "n": {
+            "cons": true,
+            "vowel": false,
+            "nasal": true,
+            "voiced": true,
+            "stop": false,
+            "fricative": false,
+            "bilabial": false,
+            "labiodental": false,
+            "alveolar": true,
+            "postalveolar": false,
+            "velar": false
+        },
+        "e": {
+            "cons": false,
+            "vowel": true,
+            "nasal": false,
+            "voiced": true,
+            "stop": false,
+            "fricative": false,
+            "bilabial": false,
+            "labiodental": false,
+            "alveolar": false,
+            "postalveolar": false,
+            "velar": false
+        },
+        "d": {
+            "cons": true,
+            "vowel": false,
+            "nasal": false,
+            "voiced": true,
+            "stop": true,
+            "fricative": false,
+            "bilabial": false,
+            "labiodental": false,
+            "alveolar": true,
+            "postalveolar": false,
+            "velar": false
+        },
+        "r": {
+            "cons": true,
+            "vowel": false,
+            "nasal": false,
+            "voiced": true,
+            "stop": false,
+            "fricative": false,
+            "bilabial": false,
+            "labiodental": false,
+            "alveolar": false,
+            "postalveolar": false,
+            "velar": false
+        },
+        "t": {
+            "cons": true,
+            "vowel": false,
+            "nasal": false,
+            "voiced": false,
+            "stop": true,
+            "fricative": false,
+            "bilabial": false,
+            "labiodental": false,
+            "alveolar": true,
+            "postalveolar": false,
+            "velar": false
+        },
+        "j": {
+            "cons": true,
+            "vowel": false,
+            "nasal": false,
+            "voiced": true,
+            "stop": false,
+            "fricative": false,
+            "bilabial": false,
+            "labiodental": false,
+            "alveolar": false,
+            "postalveolar": false,
+            "velar": false
+        },
+        "ŋ": {
+            "cons": true,
+            "vowel": false,
+            "nasal": true,
+            "voiced": true,
+            "stop": false,
+            "fricative": false,
+            "bilabial": false,
+            "labiodental": false,
+            "alveolar": false,
+            "postalveolar": false,
+            "velar": true
+        },
+        "k": {
+            "cons": true,
+            "vowel": false,
+            "nasal": false,
+            "voiced": false,
+            "stop": true,
+            "fricative": false,
+            "bilabial": false,
+            "labiodental": false,
+            "alveolar": false,
+            "postalveolar": false,
+            "velar": true
+        },
+        "m": {
+            "cons": true,
+            "vowel": false,
+            "nasal": true,
+            "voiced": true,
+            "stop": false,
+            "fricative": false,
+            "bilabial": true,
+            "labiodental": false,
+            "alveolar": false,
+            "postalveolar": false,
+            "velar": false
+        },
+        "b": {
+            "cons": true,
+            "vowel": false,
+            "nasal": false,
+            "voiced": true,
+            "stop": true,
+            "fricative": false,
+            "bilabial": true,
+            "labiodental": false,
+            "alveolar": false,
+            "postalveolar": false,
+            "velar": false
+        },
+        "i": {
+            "cons": false,
+            "vowel": true,
+            "nasal": false,
+            "voiced": true,
+            "stop": false,
+            "fricative": false,
+            "bilabial": false,
+            "labiodental": false,
+            "alveolar": false,
+            "postalveolar": false,
+            "velar": false
+        },
+        "q": {
+            "cons": true,
+            "vowel": false,
+            "nasal": false,
+            "voiced": false,
+            "stop": false,
+            "fricative": false,
+            "bilabial": false,
+            "labiodental": false,
+            "alveolar": false,
+            "postalveolar": false,
+            "velar": false
+        },
+        "ǰ": {
+            "cons": true,
+            "vowel": false,
+            "nasal": false,
+            "voiced": true,
+            "stop": false,
+            "fricative": false,
+            "bilabial": false,
+            "labiodental": false,
+            "alveolar": false,
+            "postalveolar": false,
+            "velar": false
+        },
+        "č": {
+            "cons": true,
+            "vowel": false,
+            "nasal": false,
+            "voiced": false,
+            "stop": false,
+            "fricative": false,
+            "bilabial": false,
+            "labiodental": false,
+            "alveolar": false,
+            "postalveolar": false,
+            "velar": false
+        }
+    }
+}

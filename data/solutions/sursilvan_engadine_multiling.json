@@ -1,0 +1,173 @@
+{
+    "languages": [
+        "Sursilvan",
+        " Engadine"
+    ],
+    "families": [
+        "Indo-European"
+    ],
+    "type": "multilingual",
+    "ipa": false,
+    "columns": [
+        "Sursilvan",
+        "Engadine"
+    ],
+    "data": [
+        [
+            "t u t",
+            "t u o t"
+        ],
+        [
+            "u r a",
+            "u r a"
+        ],
+        [
+            "u o l m",
+            "u o l m"
+        ],
+        [
+            "s t u m i",
+            "s t o m i"
+        ],
+        [
+            "d u n n a",
+            "d u o n n a"
+        ],
+        [
+            "n u m",
+            "n o m"
+        ],
+        [
+            "n u m s",
+            "n o m s"
+        ],
+        [
+            "c u o r t",
+            "c u o r t"
+        ],
+        [
+            "m u n d",
+            "m u o n d"
+        ],
+        [
+            "i n s u m m a",
+            "i n s o m m a"
+        ],
+        [
+            "n u m e r",
+            "n o m e r"
+        ],
+        [
+            "f u o r c l a",
+            "f u o r c l a"
+        ],
+        [
+            "p l u m b a",
+            "p l o m b a"
+        ],
+        [
+            "m u s s a r",
+            "m u o s s a r"
+        ],
+        [
+            "b u g l i a",
+            "b u o g l i a"
+        ],
+        [
+            "d i s c u o r s",
+            "d i s c u o r s"
+        ],
+        [
+            "p u o l p a",
+            "p u o l p a"
+        ],
+        [
+            "a n g u l",
+            "a n g u l"
+        ],
+        [
+            "f u o r m a",
+            "f u o r m a"
+        ],
+        [
+            "f l u r",
+            "f l u r"
+        ],
+        [
+            "c u l a n t",
+            "c u l a n t"
+        ]
+    ],
+    "notes": "",
+    "test_set": true,
+    "features": {
+        "s": {
+            "cons": true,
+            "vowel": false
+        },
+        "p": {
+            "cons": true,
+            "vowel": false
+        },
+        "l": {
+            "cons": true,
+            "vowel": false
+        },
+        "a": {
+            "cons": false,
+            "vowel": true
+        },
+        "u": {
+            "cons": false,
+            "vowel": true
+        },
+        "n": {
+            "cons": true,
+            "vowel": false
+        },
+        "o": {
+            "cons": false,
+            "vowel": true
+        },
+        "c": {
+            "cons": true,
+            "vowel": false
+        },
+        "f": {
+            "cons": true,
+            "vowel": false
+        },
+        "g": {
+            "cons": true,
+            "vowel": false
+        },
+        "d": {
+            "cons": true,
+            "vowel": false
+        },
+        "e": {
+            "cons": false,
+            "vowel": true
+        },
+        "r": {
+            "cons": true,
+            "vowel": false
+        },
+        "t": {
+            "cons": true,
+            "vowel": false
+        },
+        "m": {
+            "cons": true,
+            "vowel": false
+        },
+        "b": {
+            "cons": true,
+            "vowel": false
+        },
+        "i": {
+            "cons": false,
+            "vowel": true
+        }
+    }
+}

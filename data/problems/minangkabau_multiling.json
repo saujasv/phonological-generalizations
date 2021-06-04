@@ -1,0 +1,227 @@
+{
+    "languages": [
+        "Minangkabau"
+    ],
+    "families": [
+        "Austronesian"
+    ],
+    "type": "multilingual",
+    "ipa": false,
+    "columns": [
+        "Standard Minangkabau",
+        "Sorba"
+    ],
+    "data": [
+        [
+            "r a s o",
+            "s o r a"
+        ],
+        [
+            "r o k o k",
+            "k o r o"
+        ],
+        [
+            "r a y o",
+            "y o r a"
+        ],
+        [
+            "s u s u",
+            "s u r s u"
+        ],
+        [
+            "b a s o",
+            "s o r b a"
+        ],
+        [
+            "l a m o",
+            "m o r l a"
+        ],
+        [
+            "m a t i",
+            "t i r m a"
+        ],
+        [
+            "b u l a n",
+            "l a r b u"
+        ],
+        [
+            "m i n u m",
+            "n u r m i"
+        ],
+        [
+            "l i l i n",
+            "l i r l i"
+        ],
+        [
+            "m i n t a k",
+            "t a r m i n"
+        ],
+        [
+            "c u b a d a k",
+            "d a r c u b a"
+        ],
+        [
+            "m a n g e c e k",
+            "c e r m a n g e"
+        ],
+        [
+            "b a k i l e k",
+            "l e r b a k i"
+        ],
+        [
+            "s a w a h",
+            "w a r s a"
+        ],
+        [
+            "p i t i h",
+            "t i r p i"
+        ],
+        [
+            "m a n a n g i h",
+            "n g i r m a n a"
+        ],
+        [
+            "u r a n g",
+            "r a r u"
+        ],
+        [
+            "a p a",
+            "p a r a"
+        ],
+        [
+            "i k o",
+            "k o r i"
+        ],
+        [
+            "g a t a - g a t a",
+            "t a r g a - t a r g a"
+        ],
+        [
+            "m a h a - m a h a",
+            "h a r m a - h a r m a"
+        ],
+        [
+            "c a m p u a",
+            "p u r c a m"
+        ],
+        [
+            "r a n c a k",
+            "?"
+        ],
+        [
+            "j a d i",
+            "?"
+        ],
+        [
+            "m a k a n",
+            "?"
+        ],
+        [
+            "m a r o k o k",
+            "?"
+        ],
+        [
+            "a m p e k",
+            "?"
+        ],
+        [
+            "l i m p i k - l i m p i k",
+            "?"
+        ],
+        [
+            "d a p u a",
+            "?"
+        ]
+    ],
+    "notes": "",
+    "test_set": true,
+    "features": {
+        "s": {
+            "cons": true,
+            "vowel": false
+        },
+        "a": {
+            "cons": false,
+            "vowel": true
+        },
+        "c": {
+            "cons": true,
+            "vowel": false
+        },
+        "w": {
+            "cons": true,
+            "vowel": false
+        },
+        "d": {
+            "cons": true,
+            "vowel": false
+        },
+        "m": {
+            "cons": true,
+            "vowel": false
+        },
+        "k": {
+            "cons": true,
+            "vowel": false
+        },
+        "y": {
+            "cons": true,
+            "vowel": false
+        },
+        "g": {
+            "cons": true,
+            "vowel": false
+        },
+        "e": {
+            "cons": false,
+            "vowel": true
+        },
+        "-": {
+            "space": true
+        },
+        "n": {
+            "cons": true,
+            "vowel": false
+        },
+        "h": {
+            "cons": true,
+            "vowel": false
+        },
+        "l": {
+            "cons": true,
+            "vowel": false
+        },
+        "o": {
+            "cons": false,
+            "vowel": true
+        },
+        "j": {
+            "cons": true,
+            "vowel": false
+        },
+        "b": {
+            "cons": true,
+            "vowel": false
+        },
+        "p": {
+            "cons": true,
+            "vowel": false
+        },
+        "u": {
+            "cons": true,
+            "vowel": false
+        },
+        "r": {
+            "cons": true,
+            "vowel": false
+        },
+        "t": {
+            "cons": true,
+            "vowel": false
+        },
+        "i": {
+            "cons": false,
+            "vowel": true
+        }
+    }
+}

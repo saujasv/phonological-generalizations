@@ -1,0 +1,212 @@
+{
+    "languages": [
+        "Mongo"
+    ],
+    "families": [
+        "Niger-Congo"
+    ],
+    "type": "morphology",
+    "ipa": false,
+    "columns": [
+        "Imperative",
+        "2nd singular",
+        "3rd singular",
+        "3rd plural"
+    ],
+    "data": [
+        [
+            "b o t a",
+            "o o t a",
+            "a o t a",
+            "b a o t a"
+        ],
+        [
+            "k a m b a",
+            "o k a m b a",
+            "a k a m b a",
+            "b a k a m b a"
+        ],
+        [
+            "i m e d͡ʒ a",
+            "w i m e d͡ʒ a",
+            "i m e d͡ʒ a",
+            "b i m e d͡ʒ a"
+        ],
+        [
+            "u s a",
+            "w u s a",
+            "u s a",
+            "b u s a"
+        ],
+        [
+            "b a t a",
+            "o a t a",
+            "a a t a",
+            "b a a t a"
+        ],
+        [
+            "ɛ n a",
+            "w ɛ n a",
+            "ɛ n a",
+            "b ɛ n a"
+        ],
+        [
+            "i s a",
+            "w i s a",
+            "i s a",
+            "b i s a"
+        ],
+        [
+            "d͡ʒ i l a",
+            "o d͡ʒ i l a",
+            "a d͡ʒ i l a",
+            "b a d͡ʒ i l a"
+        ],
+        [
+            "i n a",
+            "w i n a",
+            "i n a",
+            "b i n a"
+        ],
+        [
+            "b i n a",
+            "o i n a",
+            "a i n a",
+            "b a i n a"
+        ],
+        [
+            "a s a",
+            "w a s a",
+            "a s a",
+            "b a s a"
+        ],
+        [
+            "s a ŋ g a",
+            "o s a ŋ g a",
+            "a s a ŋ g a",
+            "b a s a ŋ g a"
+        ],
+        [
+            "b a k i s a",
+            "o a k i s a",
+            "a a k i s a",
+            "b a a k i s a"
+        ],
+        [
+            "a n d a",
+            "w a n d a",
+            "a n d a",
+            "b a n d a"
+        ],
+        [
+            "s o l o l a",
+            "o s o l o l a",
+            "a s o l o l a",
+            "b a s o l o l a"
+        ],
+        [
+            "p o n a m a",
+            "o p o n a m a",
+            "a p o n a m a",
+            "b a p o n a m a"
+        ],
+        [
+            "b o w a",
+            "o o w a",
+            "a o w a",
+            "b a o w a"
+        ],
+        [
+            "b a l u s a",
+            "o a l u s a",
+            "a a l u s a",
+            "b a a l u s a"
+        ],
+        [
+            "l o ŋ g a",
+            "o l o ŋ g a",
+            "a l o ŋ g a",
+            "b a l o ŋ g a"
+        ]
+    ],
+    "notes": "d͡ʒ is a consonant pronounced like the jin the English word jump. ŋ is a consonant pronounced like the ng at the end of the English word sing.",
+    "test_set": true,
+    "features": {
+        "s": {
+            "cons": true,
+            "vowel": false
+        },
+        "a": {
+            "cons": false,
+            "vowel": true
+        },
+        "w": {
+            "cons": true,
+            "vowel": false
+        },
+        "d": {
+            "cons": true,
+            "vowel": false
+        },
+        "m": {
+            "cons": true,
+            "vowel": false
+        },
+        "k": {
+            "cons": true,
+            "vowel": false
+        },
+        "ɛ": {
+            "cons": false,
+            "vowel": true
+        },
+        "g": {
+            "cons": true,
+            "vowel": false
+        },
+        "e": {
+            "cons": false,
+            "vowel": true
+        },
+        "d͡ʒ": {
+            "cons": true,
+            "vowel": false
+        },
+        "ŋ": {
+            "cons": true,
+            "vowel": false
+        },
+        "n": {
+            "cons": true,
+            "vowel": false
+        },
+        "l": {
+            "cons": true,
+            "vowel": false
+        },
+        "o": {
+            "cons": false,
+            "vowel": true
+        },
+        "b": {
+            "cons": true,
+            "vowel": false
+        },
+        "p": {
+            "cons": true,
+            "vowel": false
+        },
+        "u": {
+            "cons": false,
+            "vowel": true
+        },
+        "t": {
+            "cons": true,
+            "vowel": false
+        },
+        "i": {
+            "cons": false,
+            "vowel": true
+        }
+    }
+}

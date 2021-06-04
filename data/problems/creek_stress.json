@@ -1,0 +1,258 @@
+{
+    "languages": [
+        "Creek"
+    ],
+    "families": [
+        "Muskogean"
+    ],
+    "type": "stress",
+    "ipa": false,
+    "columns": [
+        "Word",
+        "Stress placement"
+    ],
+    "data": [
+        [
+            "c o k o",
+            "0 0 0 1"
+        ],
+        [
+            "c aː l o",
+            "0 1 0 0"
+        ],
+        [
+            "s o k c a",
+            "0 1 0 0 0"
+        ],
+        [
+            "w aː k o c i",
+            "0 0 0 0 0 1"
+        ],
+        [
+            "p o c o s w a",
+            "0 0 0 1 0 0 0"
+        ],
+        [
+            "f a m iː c a",
+            "0 0 0 1 0 0"
+        ],
+        [
+            "y a n a s a",
+            "0 0 0 1 0 0"
+        ],
+        [
+            "i y a n a w a",
+            "0 0 0 0 0 0 1"
+        ],
+        [
+            "h îː s p a k w a",
+            "0 0 0 0 1 0 0 0"
+        ],
+        [
+            "a k l o w a h iː",
+            "0 0 0 0 0 0 0 1"
+        ],
+        [
+            "i m a h i c i t a",
+            "0 0 0 0 0 0 1 0 0"
+        ],
+        [
+            "i n k o s a p i t a",
+            "0 0 0 0 0 0 0 0 0 1"
+        ],
+        [
+            "t a p a s s oː l a",
+            "0 0 0 0 0 0 1 0 0"
+        ],
+        [
+            "a k k o p a n k a",
+            "0 0 0 0 0 1 0 0 0"
+        ],
+        [
+            "c o k p i l âː p i l a",
+            "0 0 0 0 0 0 0 0 0 0 1"
+        ],
+        [
+            "t o k n aː p h o t i",
+            "0 0 0 0 0 0 0 0 0 1"
+        ],
+        [
+            "c oː k a k i ɬ ɬ i t a",
+            "0 0 0 0 0 0 0 0 0 0 1"
+        ],
+        [
+            "ɬ a f o t a h a y a",
+            "0 0 0 0 0 0 0 1 0 0"
+        ],
+        [
+            "i t i w a n a y i p i t a",
+            "0 0 0 0 0 0 0 0 0 0 1 0 0"
+        ],
+        [
+            "i p a h a n k a t i t a",
+            "0 0 0 0 0 0 0 0 0 1 0 0"
+        ],
+        [
+            "p o k k o ɬ a k k o a k k o p a n k a c o k o",
+            "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0"
+        ],
+        [
+            "i f a",
+            "?"
+        ],
+        [
+            "n âː n a k i",
+            "?"
+        ],
+        [
+            "a k t o p a",
+            "?"
+        ],
+        [
+            "w a n a y i t a",
+            "?"
+        ],
+        [
+            "i s i s k i t o c i",
+            "?"
+        ],
+        [
+            "h o n a n t aː k i",
+            "?"
+        ],
+        [
+            "i f o c i",
+            "?"
+        ],
+        [
+            "s âː s a k w a",
+            "?"
+        ],
+        [
+            "h o k t a k i",
+            "?"
+        ],
+        [
+            "aː t a m i h o m a",
+            "?"
+        ],
+        [
+            "a w a n a y i t a",
+            "?"
+        ],
+        [
+            "i l i t o h t a ɬ i t a",
+            "?"
+        ]
+    ],
+    "notes": "ː indicates length.",
+    "test_set": true,
+    "features": {
+        "c": {
+            "cons": true,
+            "vowel": false
+        },
+        "t": {
+            "cons": true,
+            "vowel": false
+        },
+        "iː": {
+            "cons": false,
+            "vowel": true,
+            "long": true,
+            "falling": false
+        },
+        "o": {
+            "cons": false,
+            "vowel": true,
+            "long": false,
+            "falling": false
+        },
+        "oː": {
+            "cons": false,
+            "vowel": true,
+            "long": true,
+            "falling": false
+        },
+        "f": {
+            "cons": true,
+            "vowel": false
+        },
+        "p": {
+            "cons": true,
+            "vowel": false
+        },
+        "âː": {
+            "cons": false,
+            "vowel": true,
+            "long": true,
+            "falling": true
+        },
+        "aː": {
+            "cons": false,
+            "vowel": true,
+            "long": true,
+            "falling": false
+        },
+        "m": {
+            "cons": true,
+            "vowel": false
+        },
+        "îː": {
+            "cons": false,
+            "vowel": true,
+            "long": true,
+            "falling": true
+        },
+        "w": {
+            "cons": true,
+            "vowel": false
+        },
+        "0": {
+            "stress": false
+        },
+        "n": {
+            "cons": true,
+            "vowel": false
+        },
+        "l": {
+            "cons": true,
+            "vowel": false
+        },
+        "a": {
+            "cons": false,
+            "vowel": true,
+            "long": false,
+            "falling": false
+        },
+        "y": {
+            "cons": true,
+            "vowel": false
+        },
+        "s": {
+            "cons": true,
+            "vowel": false
+        },
+        "ɬ": {
+            "cons": true,
+            "vowel": false
+        },
+        "1": {
+            "stress": true
+        },
+        "i": {
+            "cons": false,
+            "vowel": true,
+            "long": false,
+            "falling": false
+        },
+        "k": {
+            "cons": true,
+            "vowel": false
+        },
+        "h": {
+            "cons": true,
+            "vowel": false
+        }
+    }
+}

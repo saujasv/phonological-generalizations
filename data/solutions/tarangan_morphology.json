@@ -1,0 +1,286 @@
+{
+    "languages": [
+        "Tarangan"
+    ],
+    "families": [
+        "Austronesian"
+    ],
+    "type": "morphology",
+    "ipa": false,
+    "columns": [
+        "Word",
+        "North dialect",
+        "South dialect"
+    ],
+    "data": [
+        [
+            "d a k ɛ́ r u",
+            "d a r k ɛ r u",
+            "d a k ɛ r u k ɛ r u"
+        ],
+        [
+            "r ɔ́ b i k",
+            "r ɔ b r ɔ b i k",
+            "r ɔ b i r ɔ b i k"
+        ],
+        [
+            "a l é m a",
+            "a m l e m a",
+            "a l e m a l e m a"
+        ],
+        [
+            "m á k a y",
+            "m a k m a k a y",
+            "m a m a k a y"
+        ],
+        [
+            "a p ú k",
+            "a k p u k",
+            "a p u k p u k"
+        ],
+        [
+            "l ɔ́ p a y",
+            "l ɔ p l ɔ p a y",
+            "l ɔ p a l ɔ p a y"
+        ],
+        [
+            "p a y l á w a n a",
+            "p a y l a w l a w a n a",
+            "p a y l a l a w a n a"
+        ],
+        [
+            "k a l p á ŋ i r",
+            "k a l p a ŋ p a ŋ i r",
+            "k a l p a p a ŋ i r"
+        ],
+        [
+            "g a r k ɔ́ w",
+            "g a r k ɔ w k ɔ w",
+            "g a r k ɔ w k ɔ w"
+        ],
+        [
+            "ɛ y l ɛ́ k a",
+            "ɛ y l ɛ k l ɛ k a",
+            "ɛ y l ɛ l ɛ k a"
+        ],
+        [
+            "d u b ɛ́ m n a",
+            "d u m b ɛ m n a",
+            "d u b ɛ m b ɛ m n a"
+        ],
+        [
+            "m a y l ɛ́ w a",
+            "m a y l ɛ w l ɛ w a",
+            "m a y l ɛ l ɛ w a"
+        ],
+        [
+            "m á t a y",
+            "m a t m a t a y",
+            "m a t a m a t a y"
+        ],
+        [
+            "m ɔ́ n a",
+            "m ɔ n m ɔ n a",
+            "m ɔ n a m ɔ n a"
+        ],
+        [
+            "b ɛ́ b a r",
+            "b ɛ b ɛ b a r",
+            "b ɛ b ɛ b a r"
+        ],
+        [
+            "j á ŋ i l",
+            "j a ŋ j a ŋ i l",
+            "j a j a ŋ i l"
+        ],
+        [
+            "l á t n a",
+            "l e t l e t n a",
+            "l e t l e t n a"
+        ],
+        [
+            "ɛ r n ɔ́ n a w",
+            "ɛ r n ɔ n ɔ n a w",
+            "ɛ r n ɔ n ɔ n a w"
+        ],
+        [
+            "ɛ t a l é ŋ a",
+            "ɛ t a ŋ l e ŋ a",
+            "ɛ t a l e l e ŋ a"
+        ],
+        [
+            "j á g a",
+            "j a g j a g a",
+            "j a j a g a"
+        ],
+        [
+            "g a s í r a n a",
+            "g a r s í r a n a",
+            "g a s i r a s í r a n a"
+        ],
+        [
+            "d a r a m ó t a",
+            "d a r a t m o t a",
+            "d a r a m o t a m o t a"
+        ],
+        [
+            "p ɔ́ w n a",
+            "p ɔ w p ɔ w n a",
+            "p ɔ w p ɔ w n a"
+        ],
+        [
+            "ɛ r t ɔ́ p a",
+            "ɛ r t ɔ p t ɔ p a",
+            "ɛ r t ɔ p a t ɔ p a"
+        ],
+        [
+            "d a b ú k a",
+            "d a k b u k a",
+            "d a b u b u k a"
+        ],
+        [
+            "ŋ ú ŋ i m",
+            "ŋ u ŋ u ŋ i m",
+            "ŋ u ŋ u ŋ i m"
+        ],
+        [
+            "i g ɔ́ ŋ",
+            "i ŋ g ɔ́ ŋ",
+            "i g ɔ́ ŋ g ɔ ŋ"
+        ]
+    ],
+    "notes": "ŋ=ng in hang.j, r, w, yare consonants. ɛ, ɔ are vowels. The mark ˊ indicates stress; if there is no such mark, the stress is on the penultimate syllable.",
+    "test_set": true,
+    "features": {
+        "s": {
+            "cons": true,
+            "vowel": false
+        },
+        "í": {
+            "cons": false,
+            "vowel": true,
+            "stress": true
+        },
+        "a": {
+            "cons": false,
+            "vowel": true,
+            "stress": false
+        },
+        "w": {
+            "cons": true,
+            "vowel": false
+        },
+        "á": {
+            "cons": false,
+            "vowel": true,
+            "stress": true
+        },
+        "é": {
+            "cons": false,
+            "vowel": true,
+            "stress": true
+        },
+        "m": {
+            "cons": true,
+            "vowel": false
+        },
+        "d": {
+            "cons": true,
+            "vowel": false
+        },
+        "k": {
+            "cons": true,
+            "vowel": false
+        },
+        "ɛ": {
+            "cons": false,
+            "vowel": true,
+            "stress": false
+        },
+        "y": {
+            "cons": true,
+            "vowel": false
+        },
+        "g": {
+            "cons": true,
+            "vowel": false
+        },
+        "ó": {
+            "cons": false,
+            "vowel": true,
+            "stress": true
+        },
+        "e": {
+            "cons": false,
+            "vowel": true,
+            "stress": false
+        },
+        "ú": {
+            "cons": false,
+            "vowel": true,
+            "stress": true
+        },
+        "ŋ": {
+            "cons": true,
+            "vowel": false
+        },
+        "ɔ": {
+            "cons": false,
+            "vowel": true,
+            "stress": false
+        },
+        "n": {
+            "cons": true,
+            "vowel": false
+        },
+        "ɔ́": {
+            "cons": false,
+            "vowel": true,
+            "stress": true
+        },
+        "l": {
+            "cons": true,
+            "vowel": false
+        },
+        "o": {
+            "cons": false,
+            "vowel": true,
+            "stress": false
+        },
+        "j": {
+            "cons": true,
+            "vowel": false
+        },
+        "b": {
+            "cons": true,
+            "vowel": false
+        },
+        "p": {
+            "cons": true,
+            "vowel": false
+        },
+        "u": {
+            "cons": false,
+            "vowel": true,
+            "stress": false
+        },
+        "r": {
+            "cons": true,
+            "vowel": false
+        },
+        "t": {
+            "cons": true,
+            "vowel": false
+        },
+        "ɛ́": {
+            "cons": false,
+            "vowel": true,
+            "stress": true
+        },
+        "i": {
+            "cons": false,
+            "vowel": true,
+            "stress": false
+        }
+    }
+}

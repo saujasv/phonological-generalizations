@@ -1,0 +1,336 @@
+{
+    "languages": [
+        "Terena"
+    ],
+    "families": [
+        "Arawakan"
+    ],
+    "type": "morphology",
+    "ipa": false,
+    "columns": [
+        "1st person sg",
+        "2nd person sg"
+    ],
+    "data": [
+        [
+            "î m a m",
+            "î m e"
+        ],
+        [
+            "m b î h o",
+            "?"
+        ],
+        [
+            "y ó n o m",
+            "y é n o"
+        ],
+        [
+            "m b ô r o",
+            "p e ô r o"
+        ],
+        [
+            "n d û t i",
+            "t i û t i"
+        ],
+        [
+            "â y o m",
+            "y â y o"
+        ],
+        [
+            "?",
+            "p î y o"
+        ],
+        [
+            "y ê n o m",
+            "?"
+        ],
+        [
+            "m b û y u",
+            "p i û y u"
+        ],
+        [
+            "n j û p a",
+            "x i û p a"
+        ],
+        [
+            "?",
+            "y ê n o"
+        ],
+        [
+            "n ê n e m",
+            "n î n o"
+        ],
+        [
+            "m b â h o",
+            "p e â h o"
+        ],
+        [
+            "n d â k i",
+            "t e â k i"
+        ],
+        [
+            "v ô ’ u m",
+            "v e ô u"
+        ],
+        [
+            "n g á s a x o",
+            "?"
+        ],
+        [
+            "n j é r e r e",
+            "?"
+        ],
+        [
+            "m ô n z i",
+            "m e ô h i"
+        ],
+        [
+            "n d ô k o",
+            "?"
+        ],
+        [
+            "í m b o v o",
+            "í p e v o"
+        ],
+        [
+            "e n j ó v i",
+            "y e x ó v i"
+        ],
+        [
+            "n o í n j o a",
+            "?"
+        ],
+        [
+            "v a n é n j o",
+            "?"
+        ],
+        [
+            "m b e p é k e n a",
+            "p i p í k i n a"
+        ],
+        [
+            "o n g ó v o",
+            "y o k ó v o"
+        ],
+        [
+            "r e m b é n o",
+            "r i p í n o"
+        ],
+        [
+            "n j e ’ é x a",
+            "x i ’ í x a"
+        ],
+        [
+            "i v á n d a k o",
+            "i v é t a k o"
+        ],
+        [
+            "m b i r í t a u n a",
+            "p i r í t e u n a"
+        ],
+        [
+            "m ó m i n d i",
+            "?"
+        ],
+        [
+            "n j o v ó ’ i",
+            "x e v ó ’ i"
+        ],
+        [
+            "n g ó n o k o a",
+            "k é n o k o a"
+        ],
+        [
+            "í n z i k a x o v o k u",
+            "?"
+        ],
+        [
+            "?",
+            "y ô x u"
+        ],
+        [
+            "í n i n g o n e",
+            "í n i k e n e"
+        ],
+        [
+            "v a n d é k e n a",
+            "v e t é k e n a"
+        ],
+        [
+            "ó v o n g u",
+            "y ó v o k u"
+        ],
+        [
+            "?",
+            "n î w o"
+        ],
+        [
+            "á n z a r a n a",
+            "?"
+        ],
+        [
+            "n z a p á t u n a",
+            "h e p á t u n a"
+        ]
+    ],
+    "notes": "’ is a consonant (known as the glottal stop). x=sh in sheesh.y=y in yum. nj=n+si in vision. Word-final m indicates the nasal pronunciation of the whole word. The mark ˆ indicates that the vowel is lengthened and pronounced with a falling pitch. The mark  ́ indicates that the following consonant is lengthened.",
+    "test_set": true,
+    "features": {
+        "s": {
+            "cons": true,
+            "vowel": false
+        },
+        "í": {
+            "cons": false,
+            "vowel": true,
+            "next-len": true,
+            "long-falling": false
+        },
+        "v": {
+            "cons": true,
+            "vowel": false
+        },
+        "û": {
+            "cons": false,
+            "vowel": true,
+            "next-len": false,
+            "long-falling": true
+        },
+        "a": {
+            "cons": false,
+            "vowel": true,
+            "next-len": false,
+            "long-falling": false
+        },
+        "ê": {
+            "cons": false,
+            "vowel": true,
+            "next-len": false,
+            "long-falling": true
+        },
+        "w": {
+            "cons": true,
+            "vowel": false
+        },
+        "á": {
+            "cons": false,
+            "vowel": true,
+            "next-len": true,
+            "long-falling": false
+        },
+        "é": {
+            "cons": false,
+            "vowel": true,
+            "next-len": true,
+            "long-falling": false
+        },
+        "â": {
+            "cons": false,
+            "vowel": true,
+            "next-len": false,
+            "long-falling": true
+        },
+        "d": {
+            "cons": true,
+            "vowel": false
+        },
+        "m": {
+            "cons": true,
+            "vowel": false
+        },
+        "k": {
+            "cons": true,
+            "vowel": false
+        },
+        "y": {
+            "cons": true,
+            "vowel": false
+        },
+        "’": {
+            "cons": true,
+            "vowel": false
+        },
+        "g": {
+            "cons": true,
+            "vowel": false
+        },
+        "ó": {
+            "cons": false,
+            "vowel": true,
+            "next-len": true,
+            "long-falling": false
+        },
+        "e": {
+            "cons": false,
+            "vowel": true,
+            "next-len": false,
+            "long-falling": false
+        },
+        "n": {
+            "cons": true,
+            "vowel": false
+        },
+        "x": {
+            "cons": true,
+            "vowel": false
+        },
+        "h": {
+            "cons": true,
+            "vowel": false
+        },
+        "o": {
+            "cons": false,
+            "vowel": true,
+            "next-len": false,
+            "long-falling": false
+        },
+        "z": {
+            "cons": true,
+            "vowel": false
+        },
+        "j": {
+            "cons": true,
+            "vowel": false
+        },
+        "b": {
+            "cons": true,
+            "vowel": false
+        },
+        "p": {
+            "cons": true,
+            "vowel": false
+        },
+        "u": {
+            "cons": false,
+            "vowel": true,
+            "next-len": false,
+            "long-falling": false
+        },
+        "ô": {
+            "cons": false,
+            "vowel": true,
+            "next-len": false,
+            "long-falling": true
+        },
+        "r": {
+            "cons": true,
+            "vowel": false
+        },
+        "t": {
+            "cons": true,
+            "vowel": false
+        },
+        "î": {
+            "cons": false,
+            "vowel": true,
+            "next-len": false,
+            "long-falling": true
+        },
+        "i": {
+            "cons": false,
+            "vowel": true,
+            "next-len": false,
+            "long-falling": false
+        }
+    }
+}

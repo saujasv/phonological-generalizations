@@ -1,0 +1,200 @@
+{
+    "languages": [
+        "Dutch"
+    ],
+    "families": [
+        "Indo-European"
+    ],
+    "type": "morphology",
+    "ipa": false,
+    "columns": [
+        "I V",
+        "to be Ved",
+        "a(n) N",
+        "Ns"
+    ],
+    "data": [
+        [
+            "i k   h e e t",
+            "h e t e n",
+            "",
+            ""
+        ],
+        [
+            "i k   h u u r",
+            "h u r e n",
+            "",
+            ""
+        ],
+        [
+            "",
+            "",
+            "e e n   n e k",
+            "n e k k e n"
+        ],
+        [
+            "",
+            "",
+            "e e n   h e e r",
+            "h e r e n"
+        ],
+        [
+            "i k   g o k",
+            "g o k k e n",
+            "",
+            ""
+        ],
+        [
+            "i k   l e e f",
+            "l e v e n",
+            "",
+            ""
+        ],
+        [
+            "",
+            "",
+            "e e n   l i p",
+            "l i p p e n"
+        ],
+        [
+            "i k   m a a k",
+            "m a k e n",
+            "",
+            ""
+        ],
+        [
+            "i k   g e e f",
+            "g e v e n",
+            "",
+            ""
+        ],
+        [
+            "i k   w o o n",
+            "?",
+            "",
+            ""
+        ],
+        [
+            "",
+            "",
+            "e e n   h a a r",
+            "?"
+        ],
+        [
+            "",
+            "",
+            "?",
+            "o r e n"
+        ],
+        [
+            "",
+            "",
+            "e e n   u u r",
+            "?"
+        ],
+        [
+            "",
+            "",
+            "?",
+            "a d r e s s e n"
+        ],
+        [
+            "?",
+            "g o m m e n",
+            "",
+            ""
+        ],
+        [
+            "",
+            "",
+            "?",
+            "r a v e n"
+        ],
+        [
+            "i k   s t a p",
+            "?",
+            "",
+            ""
+        ]
+    ],
+    "notes": "",
+    "test_set": true,
+    "features": {
+        "s": {
+            "cons": true,
+            "vowel": false
+        },
+        "v": {
+            "cons": true,
+            "vowel": false
+        },
+        "a": {
+            "cons": false,
+            "vowel": true
+        },
+        "f": {
+            "cons": true,
+            "vowel": false
+        },
+        "w": {
+            "cons": true,
+            "vowel": false
+        },
+        "d": {
+            "cons": true,
+            "vowel": false
+        },
+        "m": {
+            "cons": true,
+            "vowel": false
+        },
+        "k": {
+            "cons": true,
+            "vowel": false
+        },
+        "g": {
+            "cons": true,
+            "vowel": false
+        },
+        "e": {
+            "cons": false,
+            "vowel": true
+        },
+        "n": {
+            "cons": true,
+            "vowel": false
+        },
+        "h": {
+            "cons": true,
+            "vowel": false
+        },
+        "l": {
+            "cons": true,
+            "vowel": false
+        },
+        "o": {
+            "cons": false,
+            "vowel": true
+        },
+        "p": {
+            "cons": true,
+            "vowel": false
+        },
+        "u": {
+            "cons": false,
+            "vowel": true
+        },
+        "r": {
+            "cons": true,
+            "vowel": false
+        },
+        "t": {
+            "cons": true,
+            "vowel": false
+        },
+        "i": {
+            "cons": false,
+            "vowel": true
+        }
+    }
+}

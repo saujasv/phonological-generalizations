@@ -1,0 +1,257 @@
+{
+    "languages": [
+        "Faroese"
+    ],
+    "families": [
+        "Indo-European"
+    ],
+    "type": "transliteration",
+    "ipa": false,
+    "columns": [
+        "Faroese",
+        "Phonetic transcription"
+    ],
+    "data": [
+        [
+            "b ø g a",
+            "?"
+        ],
+        [
+            "d e y ð i",
+            "d ɛ i j i"
+        ],
+        [
+            "e y ð u r",
+            "ɛ i j u r"
+        ],
+        [
+            "g l a ð a",
+            "g l ɛ a v a"
+        ],
+        [
+            "g l e ð a",
+            "g l eː a"
+        ],
+        [
+            "g l ø ð u r",
+            "g l øː v u r"
+        ],
+        [
+            "h u g i",
+            "h uː w i"
+        ],
+        [
+            "k n o ð a r",
+            "?"
+        ],
+        [
+            "k o y l a",
+            "k ɔ i l a"
+        ],
+        [
+            "k v ø ð a",
+            "?"
+        ],
+        [
+            "l e g a",
+            "l eː v a"
+        ],
+        [
+            "l o g i",
+            "l oː j i"
+        ],
+        [
+            "l ø g u r",
+            "?"
+        ],
+        [
+            "m ó ð a",
+            "m ɔ u w a"
+        ],
+        [
+            "m u g u",
+            "m uː w u"
+        ],
+        [
+            "p l á g a",
+            "?"
+        ],
+        [
+            "r á ð i",
+            "r ɔ a j i"
+        ],
+        [
+            "r ú m a",
+            "r ʉ u m a"
+        ],
+        [
+            "r ø ð a",
+            "r øː a"
+        ],
+        [
+            "s k a ð i",
+            "?"
+        ],
+        [
+            "s k ó g u r",
+            "s k ɔ u w u r"
+        ],
+        [
+            "s p r e i ð a",
+            "s p r a i j a"
+        ],
+        [
+            "s ø g a",
+            "s øː v a"
+        ],
+        [
+            "t e g i",
+            "t eː j i"
+        ],
+        [
+            "t o y g u r",
+            "?"
+        ],
+        [
+            "t r e g a r",
+            "t r eː a r"
+        ],
+        [
+            "t r ú g i",
+            "?"
+        ],
+        [
+            "v á g u r",
+            "v ɔ a v u r"
+        ],
+        [
+            "v e g u r",
+            "v eː v u r"
+        ],
+        [
+            "v i ð u r",
+            "v iː j u r"
+        ],
+        [
+            "v i g a",
+            "v iː j a"
+        ],
+        [
+            "ø g a",
+            "øː a"
+        ]
+    ],
+    "notes": "In the transcription [j]=y in yum,[w]=w in win;[ɛ], [ɔ], [ø], [ʉ] are vowels. The mark “:” denotesvowel length.",
+    "test_set": true,
+    "features": {
+        "s": {
+            "cons": true,
+            "vowel": false
+        },
+        "v": {
+            "cons": true,
+            "vowel": false
+        },
+        "a": {
+            "cons": false,
+            "vowel": true
+        },
+        "eː": {
+            "cons": false,
+            "vowel": true,
+            "long": true
+        },
+        "w": {
+            "cons": true,
+            "vowel": false
+        },
+        "oː": {
+            "cons": false,
+            "vowel": true,
+            "long": true
+        },
+        "d": {
+            "cons": true,
+            "vowel": false
+        },
+        "m": {
+            "cons": true,
+            "vowel": false
+        },
+        "k": {
+            "cons": true,
+            "vowel": false
+        },
+        "ɛ": {
+            "cons": false,
+            "vowel": true
+        },
+        "g": {
+            "cons": true,
+            "vowel": false
+        },
+        "ʉ": {
+            "cons": false,
+            "vowel": true
+        },
+        "n": {
+            "cons": true,
+            "vowel": false
+        },
+        "ɔ": {
+            "cons": false,
+            "vowel": true
+        },
+        "h": {
+            "cons": true,
+            "vowel": false
+        },
+        "l": {
+            "cons": true,
+            "vowel": false
+        },
+        "uː": {
+            "cons": false,
+            "vowel": true,
+            "long": true
+        },
+        "j": {
+            "cons": true,
+            "vowel": false
+        },
+        "b": {
+            "cons": true,
+            "vowel": false
+        },
+        "iː": {
+            "cons": false,
+            "vowel": true,
+            "long": true
+        },
+        "p": {
+            "cons": true,
+            "vowel": false
+        },
+        "u": {
+            "cons": false,
+            "vowel": true
+        },
+        "øː": {
+            "cons": false,
+            "vowel": true,
+            "long": true
+        },
+        "r": {
+            "cons": true,
+            "vowel": false
+        },
+        "t": {
+            "cons": true,
+            "vowel": false
+        },
+        "i": {
+            "cons": false,
+            "vowel": true
+        }
+    }
+}

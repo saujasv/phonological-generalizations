@@ -1,0 +1,196 @@
+{
+    "languages": [
+        "Finnish"
+    ],
+    "families": [
+        "Uralic"
+    ],
+    "type": "morphology",
+    "ipa": false,
+    "columns": [
+        "basic form",
+        "inessive",
+        "genitive"
+    ],
+    "data": [
+        [
+            "k y l p y",
+            "k y l v y s s ä",
+            ""
+        ],
+        [
+            "b i t t i",
+            "b i t i s s ä",
+            ""
+        ],
+        [
+            "t a k k i",
+            "t a k i s s a",
+            "t a k i n"
+        ],
+        [
+            "k a a p p i",
+            "k a a p i s s a",
+            "k a a p i n"
+        ],
+        [
+            "d o l l a r i",
+            "d o l l a r i s s a",
+            "d o l l a r i n"
+        ],
+        [
+            "m e t s ä",
+            "m e t s ä s s ä",
+            "m e t s ä n"
+        ],
+        [
+            "r i p a",
+            "r i v a s s a",
+            "r i v a n"
+        ],
+        [
+            "t a l o",
+            "t a l o s s a",
+            "t a l o n"
+        ],
+        [
+            "k i r j a s t o",
+            "k i r j a s t o s s a",
+            "k i r j a s t o n"
+        ],
+        [
+            "v a a t e",
+            "v a a t t e e s s a",
+            "v a a t t e e n"
+        ],
+        [
+            "l ä ä k e",
+            "l ä ä k k e e s s ä",
+            ""
+        ],
+        [
+            "ä i t i",
+            "ä i d i s s ä",
+            ""
+        ],
+        [
+            "t a r v e",
+            "t a r p e e s s a",
+            ""
+        ],
+        [
+            "r o t t a",
+            "r o t a s s a",
+            ""
+        ],
+        [
+            "k e p p i",
+            "k e p i s s ä",
+            ""
+        ],
+        [
+            "k a t u",
+            "k a d u s s a",
+            ""
+        ],
+        [
+            "ä l y k k ö",
+            "ä l y k ö s s ä",
+            "ä l y k ö n"
+        ],
+        [
+            "t u r k u",
+            "t u r u s s a",
+            "t u r u n"
+        ],
+        [
+            "n ä k y",
+            "n ä y s s ä",
+            ""
+        ]
+    ],
+    "notes": "",
+    "test_set": true,
+    "features": {
+        "s": {
+            "cons": true,
+            "vowel": false
+        },
+        "v": {
+            "cons": true,
+            "vowel": false
+        },
+        "a": {
+            "cons": false,
+            "vowel": true
+        },
+        "m": {
+            "cons": true,
+            "vowel": false
+        },
+        "d": {
+            "cons": true,
+            "vowel": false
+        },
+        "k": {
+            "cons": true,
+            "vowel": false
+        },
+        "y": {
+            "cons": false,
+            "vowel": true
+        },
+        "ö": {
+            "cons": false,
+            "vowel": true
+        },
+        "e": {
+            "cons": false,
+            "vowel": true
+        },
+        "ä": {
+            "cons": false,
+            "vowel": true
+        },
+        "n": {
+            "cons": true,
+            "vowel": false
+        },
+        "l": {
+            "cons": true,
+            "vowel": false
+        },
+        "o": {
+            "cons": false,
+            "vowel": true
+        },
+        "j": {
+            "cons": true,
+            "vowel": false
+        },
+        "b": {
+            "cons": true,
+            "vowel": false
+        },
+        "p": {
+            "cons": true,
+            "vowel": false
+        },
+        "u": {
+            "cons": false,
+            "vowel": true
+        },
+        "r": {
+            "cons": true,
+            "vowel": false
+        },
+        "t": {
+            "cons": true,
+            "vowel": false
+        },
+        "i": {
+            "cons": false,
+            "vowel": true
+        }
+    }
+}

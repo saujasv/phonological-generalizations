@@ -1,0 +1,258 @@
+{
+    "languages": [
+        "Aleut"
+    ],
+    "families": [
+        "Eskimo-Aleut"
+    ],
+    "type": "stress",
+    "ipa": false,
+    "columns": [
+        "Word",
+        "Stress placement"
+    ],
+    "data": [
+        [
+            "t a t u l",
+            "0 1 0 0 0"
+        ],
+        [
+            "n ə t ɣ ə l q i n",
+            "0 0 0 0 1 0 0 0 0"
+        ],
+        [
+            "n u r a q i n",
+            "0 0 0 1 0 0 0"
+        ],
+        [
+            "ɣ ə l ɣ ə n",
+            "0 1 0 0 0 0"
+        ],
+        [
+            "n e q ə q i n",
+            "0 1 0 0 0 0 0"
+        ],
+        [
+            "n ə s ə q q i n",
+            "0 0 0 1 0 0 0 0"
+        ],
+        [
+            "t a p l a ŋ ə t k ə n",
+            "0 0 0 0 1 0 0 0 0 0 0"
+        ],
+        [
+            "k ə m ɣ ə t ə k",
+            "0 1 0 0 0 0 0 0"
+        ],
+        [
+            "ʔ i t ə k",
+            "0 1 0 0 0"
+        ],
+        [
+            "p a q ə t k u k",
+            "0 0 0 1 0 0 0 0"
+        ],
+        [
+            "n i l ɣ ə q i n a t",
+            "0 1 0 0 0 0 0 0 0 0"
+        ],
+        [
+            "p u n t a",
+            "0 1 0 0 0"
+        ],
+        [
+            "q e t u m ɣ ə n",
+            "0 0 0 1 0 0 0 0"
+        ],
+        [
+            "p i w t a k",
+            "0 1 0 0 0 0"
+        ],
+        [
+            "n ə m i t q i n",
+            "0 0 0 1 0 0 0 0"
+        ],
+        [
+            "t u m ɣ ə t u m",
+            "0 1 0 0 0 0 0 0"
+        ],
+        [
+            "t ə t k a",
+            "0 1 0 0 0"
+        ],
+        [
+            "k ə t t i l",
+            "0 1 0 0 0 0"
+        ],
+        [
+            "q a l p u q a l",
+            "0 0 0 0 1 0 0 0"
+        ],
+        [
+            "k ə p i r i k",
+            "0 0 0 1 0 0 0"
+        ],
+        [
+            "t ə v i t a t ə t k ə n",
+            "0 0 0 1 0 0 0 0 0 0 0 0"
+        ],
+        [
+            "p i n t ə v ə l ŋ ə k",
+            "0 1 0 0 0 0 0 0 0 0 0"
+        ],
+        [
+            "s a w a t",
+            "?"
+        ],
+        [
+            "p a n t a w w i",
+            "?"
+        ],
+        [
+            "n ə k t ə q i n",
+            "?"
+        ],
+        [
+            "ɣ ə t ɣ a n",
+            "?"
+        ],
+        [
+            "n ə m i n ə m",
+            "?"
+        ],
+        [
+            "n i r v ə q i n",
+            "?"
+        ],
+        [
+            "p u j ɣ ə n",
+            "?"
+        ],
+        [
+            "t i l m ə t i l",
+            "?"
+        ],
+        [
+            "w i r u w i r",
+            "?"
+        ],
+        [
+            "w i n t a t ə k",
+            "?"
+        ],
+        [
+            "n ə m a l q i n",
+            "?"
+        ],
+        [
+            "j a q j a q",
+            "?"
+        ],
+        [
+            "j a t ə k",
+            "?"
+        ],
+        [
+            "t a v i t ə t k ə n",
+            "?"
+        ],
+        [
+            "p i n t ə t k ə n",
+            "?"
+        ],
+        [
+            "t a j ə s q ə ŋ k i",
+            "?"
+        ]
+    ],
+    "notes": "",
+    "test_set": true,
+    "features": {
+        "ŋ": {
+            "cons": true,
+            "vowel": false
+        },
+        "t": {
+            "cons": true,
+            "vowel": false
+        },
+        "v": {
+            "cons": true,
+            "vowel": false
+        },
+        "p": {
+            "cons": true,
+            "vowel": false
+        },
+        "m": {
+            "cons": true,
+            "vowel": false
+        },
+        "ʔ": {
+            "cons": true,
+            "vowel": false
+        },
+        "w": {
+            "cons": true,
+            "vowel": false
+        },
+        "r": {
+            "cons": true,
+            "vowel": false
+        },
+        "ə": {
+            "cons": false,
+            "vowel": true
+        },
+        "ɣ": {
+            "cons": true,
+            "vowel": false
+        },
+        "n": {
+            "cons": true,
+            "vowel": false
+        },
+        "q": {
+            "cons": true,
+            "vowel": false
+        },
+        "l": {
+            "cons": true,
+            "vowel": false
+        },
+        "e": {
+            "cons": false,
+            "vowel": true
+        },
+        "j": {
+            "cons": true,
+            "vowel": false
+        },
+        "u": {
+            "cons": false,
+            "vowel": true
+        },
+        "a": {
+            "cons": false,
+            "vowel": true
+        },
+        "s": {
+            "cons": true,
+            "vowel": false
+        },
+        "1": {
+            "stress": true
+        },
+        "0": {
+            "stress": false
+        },
+        "i": {
+            "cons": false,
+            "vowel": true
+        },
+        "k": {
+            "cons": true,
+            "vowel": false
+        }
+    }
+}

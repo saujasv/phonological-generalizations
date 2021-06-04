@@ -1,0 +1,254 @@
+{
+    "languages": [
+        "Kabardian"
+    ],
+    "families": [
+        "Northwest Caucasian"
+    ],
+    "type": "stress",
+    "ipa": false,
+    "columns": [
+        "Word",
+        "Stress placement"
+    ],
+    "data": [
+        [
+            "d e f ə n",
+            "0 0 0 1 0"
+        ],
+        [
+            "gʷ ə šʼ ə ʔ e n",
+            "0 0 0 0 0 1 0"
+        ],
+        [
+            "m a d e",
+            "0 1 0 0"
+        ],
+        [
+            "m a š x e",
+            "0 1 0 0 0"
+        ],
+        [
+            "m e c̣ a n t χʷ e",
+            "0 0 0 1 0 0 0 0"
+        ],
+        [
+            "m e gʷ ə šʼ ə ʔ e f",
+            "0 0 0 0 0 0 0 1 0"
+        ],
+        [
+            "m e s",
+            "0 1 0"
+        ],
+        [
+            "m e b ə b ə p e",
+            "0 0 0 0 0 1 0 0"
+        ],
+        [
+            "m e š x a p e",
+            "0 0 0 0 1 0 0"
+        ],
+        [
+            "m e ʒ e q̇ a f e",
+            "0 0 0 0 0 1 0 0"
+        ],
+        [
+            "s ə n",
+            "0 1 0"
+        ],
+        [
+            "ṭ ə gʷ ə r ə gʷ ə n",
+            "0 0 0 0 0 0 0 1 0"
+        ],
+        [
+            "ʒ e q̇ e n",
+            "0 0 0 1 0"
+        ],
+        [
+            "m e d e f",
+            "0 0 0 1 0"
+        ],
+        [
+            "m e d a f e",
+            "0 0 0 1 0 0"
+        ],
+        [
+            "s ə f ə n",
+            "0 0 0 1 0"
+        ],
+        [
+            "m e gʷ ə šʼ ə ʔ e",
+            "0 0 0 0 0 1 0 0"
+        ],
+        [
+            "m e b ə b",
+            "0 0 0 1 0"
+        ],
+        [
+            "c̣ a n t χʷ e q̇ ə m",
+            "0 1 0 0 0 0 0 0 0"
+        ],
+        [
+            "c̣ a n t χʷ e t",
+            "0 1 0 0 0 0 0"
+        ],
+        [
+            "c̣ e n t χʷ e f t",
+            "0 0 0 t 0 1 0 0"
+        ],
+        [
+            "d a p e t",
+            "0 1 0 0 0"
+        ],
+        [
+            "d e f x e m e",
+            "0 1 0 0 0 0 0"
+        ],
+        [
+            "c̣ a n t χʷ e x e m e",
+            "0 1 0 0 0 0 0 0 0 0"
+        ],
+        [
+            "m e ṭ ə gʷ ə r ə gʷ x e",
+            "0 0 0 0 0 0 0 1 0 0 0"
+        ],
+        [
+            "s ə f q̇ ə m",
+            "0 1 0 0 0 0"
+        ],
+        [
+            "b ə b m e",
+            "0 1 0 0 0"
+        ],
+        [
+            "b ə b x e t",
+            "0 1 0 0 0 0"
+        ],
+        [
+            "š x e m e",
+            "0 0 1 0 0"
+        ],
+        [
+            "ṭ ə gʷ ə r ə gʷ q̇ ə m",
+            "0 0 0 0 0 1 0 0 0 0"
+        ],
+        [
+            "c̣ e n t χʷ e f m e",
+            "0 0 0 0 0 1 0 0 0"
+        ],
+        [
+            "š x a f e x e q̇ ə m",
+            "0 0 1 0 0 0 0 0 0 0"
+        ],
+        [
+            "b ə b ə f t",
+            "0 0 0 0 0 0"
+        ],
+        [
+            "š x e t",
+            "0 0 1 0"
+        ],
+        [
+            "ṭ ə gʷ ə r ə gʷ ə p e m e",
+            "0 0 0 0 0 0 0 1 0 0 0 0"
+        ]
+    ],
+    "notes": "c̣, gʷ, q̇ , š, š’, ṭ, x, χʷ, ʒ, ʔ are consonants;ə is a vowel. The mark “ ́” indicates stress.",
+    "test_set": true,
+    "features": {
+        "d": {
+            "cons": true,
+            "vowel": false
+        },
+        "t": {
+            "cons": true,
+            "vowel": false
+        },
+        "gʷ": {
+            "cons": true,
+            "vowel": false
+        },
+        "šʼ": {
+            "cons": true,
+            "vowel": false
+        },
+        "f": {
+            "cons": true,
+            "vowel": false
+        },
+        "p": {
+            "cons": true,
+            "vowel": false
+        },
+        "q̇": {
+            "cons": true,
+            "vowel": false
+        },
+        "m": {
+            "cons": true,
+            "vowel": false
+        },
+        "ʔ": {
+            "cons": true,
+            "vowel": false
+        },
+        "x": {
+            "cons": true,
+            "vowel": false
+        },
+        "ṭ": {
+            "cons": true,
+            "vowel": false
+        },
+        "ə": {
+            "cons": false,
+            "vowel": true
+        },
+        "0": {
+            "stress": false
+        },
+        "r": {
+            "cons": true,
+            "vowel": false
+        },
+        "c̣": {
+            "cons": true,
+            "vowel": false
+        },
+        "n": {
+            "cons": true,
+            "vowel": false
+        },
+        "b": {
+            "cons": true,
+            "vowel": false
+        },
+        "š": {
+            "cons": true,
+            "vowel": false
+        },
+        "e": {
+            "cons": false,
+            "vowel": true
+        },
+        "a": {
+            "cons": false,
+            "vowel": true
+        },
+        "s": {
+            "cons": true,
+            "vowel": false
+        },
+        "1": {
+            "stress": true
+        },
+        "χʷ": {
+            "cons": true,
+            "vowel": false
+        },
+        "ʒ": {
+            "cons": true,
+            "vowel": false
+        }
+    }
+}

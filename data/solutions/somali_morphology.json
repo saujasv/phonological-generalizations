@@ -1,0 +1,249 @@
+{
+    "languages": [
+        "Somali"
+    ],
+    "families": [
+        "Afro-Asiatic"
+    ],
+    "type": "morphology",
+    "ipa": false,
+    "columns": [
+        "1st person",
+        "3rd person singular"
+    ],
+    "data": [
+        [
+            "a kh r i y a y",
+            "a kh r i d a y"
+        ],
+        [
+            "a r a g a y",
+            "a r a g t a y"
+        ],
+        [
+            "b a r a y",
+            "b a r t a y"
+        ],
+        [
+            "b a ’ a y",
+            "b a ’ d a y"
+        ],
+        [
+            "b a a j i y a y",
+            "b a a j i d a y"
+        ],
+        [
+            "b a a q a y",
+            "b a a q d a y"
+        ],
+        [
+            "b a x a y",
+            "b a x d a y"
+        ],
+        [
+            "b i ’ i y a y",
+            "b i ’ i d a y"
+        ],
+        [
+            "b i l a a b a y",
+            "b i l a a b t a y"
+        ],
+        [
+            "c u n a y",
+            "c u n t a y"
+        ],
+        [
+            "c a b a y",
+            "c a b t a y"
+        ],
+        [
+            "c a r a r a y",
+            "c a r a r t a y"
+        ],
+        [
+            "d a a q a y",
+            "d a a q d a y"
+        ],
+        [
+            "dh a c a y",
+            "dh a c d a y"
+        ],
+        [
+            "dh i s a y",
+            "dh i s t a y"
+        ],
+        [
+            "d i i d a y",
+            "d i i d a y"
+        ],
+        [
+            "d i l a y",
+            "d i s h a y"
+        ],
+        [
+            "f a r a x a y",
+            "f a r a x d a y"
+        ],
+        [
+            "g a a dh a y",
+            "g a a dh a y"
+        ],
+        [
+            "g a l a y",
+            "g a s h a y"
+        ],
+        [
+            "g o ’ a y",
+            "g o ’ d a y"
+        ],
+        [
+            "h e l a y",
+            "h e s h a y"
+        ],
+        [
+            "h o r j e e d a y",
+            "h o r j e e d a y"
+        ],
+        [
+            "k a c a y",
+            "k a c d a y"
+        ],
+        [
+            "k e e n a y",
+            "k e e n t a y"
+        ],
+        [
+            "k o r o dh a y",
+            "k o r o dh a y"
+        ],
+        [
+            "q a a d a y",
+            "q a a d a y"
+        ],
+        [
+            "t a g a y",
+            "t a g t a y"
+        ],
+        [
+            "x i dh a y",
+            "x i dh a y"
+        ],
+        [
+            "w a l a a q a y",
+            "w a l a a q d a y"
+        ]
+    ],
+    "notes": "dh: a retroflex ‘d’ pronounced with the tongue tip curled backward like the ‘dr’ in driveq: a voiced uvular plosive, like a ‘g’ but pronounced at the back of the throat like the sound of drinking waterkh: a bit like the ‘ch’ in Scottish loch but pronounced at the back of the throatx: a voiceless pharyngeal fricative, like an ‘h’ pronounced deep in the throatc: same as ‘x’, but voicedr: a rolled ‘r’ as in Italian’: the consonant sound in the middle of uh-oh",
+    "test_set": true,
+    "features": {
+        "s": {
+            "cons": true,
+            "vowel": false
+        },
+        "a": {
+            "cons": false,
+            "vowel": true
+        },
+        "c": {
+            "cons": true,
+            "vowel": false,
+            "voiced": true,
+            "fricative": true,
+            "pharyngeal": true
+        },
+        "dh": {
+            "cons": true,
+            "vowel": false,
+            "retroflex": true
+        },
+        "f": {
+            "cons": true,
+            "vowel": false
+        },
+        "w": {
+            "cons": true,
+            "vowel": false
+        },
+        "q": {
+            "cons": true,
+            "vowel": false,
+            "voiced": true,
+            "plosive": true
+        },
+        "d": {
+            "cons": true,
+            "vowel": false
+        },
+        "k": {
+            "cons": true,
+            "vowel": false
+        },
+        "y": {
+            "cons": true,
+            "vowel": false
+        },
+        "’": {
+            "cons": true,
+            "vowel": false
+        },
+        "g": {
+            "cons": true,
+            "vowel": false
+        },
+        "kh": {
+            "cons": true,
+            "vowel": false
+        },
+        "e": {
+            "cons": false,
+            "vowel": true
+        },
+        "n": {
+            "cons": true,
+            "vowel": false
+        },
+        "x": {
+            "cons": true,
+            "vowel": false,
+            "voiced": false,
+            "fricative": true,
+            "pharyngeal": true
+        },
+        "h": {
+            "cons": true,
+            "vowel": false
+        },
+        "l": {
+            "cons": true,
+            "vowel": false
+        },
+        "o": {
+            "cons": false,
+            "vowel": true
+        },
+        "j": {
+            "cons": true,
+            "vowel": false
+        },
+        "b": {
+            "cons": true,
+            "vowel": false
+        },
+        "u": {
+            "cons": false,
+            "vowel": true
+        },
+        "r": {
+            "cons": true,
+            "vowel": false
+        },
+        "t": {
+            "cons": true,
+            "vowel": false
+        },
+        "i": {
+            "cons": false,
+            "vowel": true
+        }
+    }
+}

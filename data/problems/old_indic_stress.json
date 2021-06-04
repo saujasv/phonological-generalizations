@@ -1,0 +1,287 @@
+{
+    "languages": [
+        "Sanskrit"
+    ],
+    "families": [
+        "Indo-European"
+    ],
+    "type": "stress",
+    "ipa": false,
+    "columns": [
+        "Word",
+        "Stress placement"
+    ],
+    "data": [
+        [
+            "v ṛ k - a -",
+            "0 1 0 0 0 0"
+        ],
+        [
+            "v a dh - a -",
+            "0 0 0 0 1 0"
+        ],
+        [
+            "s aː d - a -",
+            "0 0 0 0 1 0"
+        ],
+        [
+            "p u ṣ - ṭ i -",
+            "0 0 0 0 0 1 0"
+        ],
+        [
+            "s i k - t i -",
+            "0 0 0 0 0 1 0"
+        ],
+        [
+            "p iː - t i -",
+            "0 0 0 0 1 0"
+        ],
+        [
+            "g a - t i -",
+            "0 1 0 0 0 0"
+        ],
+        [
+            "v a dh - r i -",
+            "0 1 0 0 0 0 0"
+        ],
+        [
+            "dh uː - m a -",
+            "0 0 0 0 1 0"
+        ],
+        [
+            "d ṛ - t i -",
+            "0 1 0 0 0 0"
+        ],
+        [
+            "gh ṛ - ṇ i -",
+            "0 1 0 0 0 0"
+        ],
+        [
+            "gh ṛ - ṇ a -",
+            "0 0 0 0 1 0"
+        ],
+        [
+            "k aː - m a -",
+            "0 1 0 0 0 0"
+        ],
+        [
+            "p uː r - v a -",
+            "0 1 0 0 0 0 0"
+        ],
+        [
+            "bh ṛ m - i -",
+            "0 1 0 0 0 0"
+        ],
+        [
+            "k ṛ ṣ - i -",
+            "0 0 0 0 1 0"
+        ],
+        [
+            "s t o - m a -",
+            "0 0 1 0 0 0 0"
+        ],
+        [
+            "d a r - m a -",
+            "0 0 0 0 0 1 0"
+        ],
+        [
+            "n a g - n a -",
+            "0 0 0 0 0 1 0"
+        ],
+        [
+            "v a k - v a -",
+            "0 1 0 0 0 0 0"
+        ],
+        [
+            "m ṛ dh - r a -",
+            "?"
+        ],
+        [
+            "ph e - n a -",
+            "?"
+        ],
+        [
+            "s t u - t i -",
+            "?"
+        ],
+        [
+            "t a n - t i -",
+            "?"
+        ],
+        [
+            "bh aː r - a -",
+            "?"
+        ],
+        [
+            "d uː - t a -",
+            "?"
+        ],
+        [
+            "s v a p - n a -",
+            "?"
+        ],
+        [
+            "bh uː - m i -",
+            "?"
+        ],
+        [
+            "gh a r - m a -",
+            "?"
+        ],
+        [
+            "a bh - r a -",
+            "?"
+        ],
+        [
+            "gh a n - a -",
+            "?"
+        ],
+        [
+            "gh ṛ ṣ - v i -",
+            "?"
+        ]
+    ],
+    "notes": "ː indicates length.",
+    "test_set": true,
+    "features": {
+        "-": {
+            "space": true
+        },
+        "d": {
+            "cons": true,
+            "vowel": false,
+            "aspirated": false
+        },
+        "t": {
+            "cons": true,
+            "vowel": false,
+            "aspirated": false
+        },
+        "iː": {
+            "cons": false,
+            "vowel": true,
+            "long": true
+        },
+        "ṇ": {
+            "cons": true,
+            "vowel": false,
+            "aspirated": false
+        },
+        "ṛ": {
+            "cons": true,
+            "vowel": false,
+            "aspirated": false
+        },
+        "o": {
+            "cons": false,
+            "vowel": true,
+            "long": false
+        },
+        "v": {
+            "cons": true,
+            "vowel": false,
+            "aspirated": false
+        },
+        "p": {
+            "cons": true,
+            "vowel": false,
+            "aspirated": false
+        },
+        "g": {
+            "cons": true,
+            "vowel": false,
+            "aspirated": false
+        },
+        "aː": {
+            "cons": false,
+            "vowel": true,
+            "long": true
+        },
+        "m": {
+            "cons": true,
+            "vowel": false,
+            "aspirated": false
+        },
+        "dh": {
+            "cons": true,
+            "vowel": false,
+            "aspirated": true
+        },
+        "ṭ": {
+            "cons": true,
+            "vowel": false,
+            "aspirated": false
+        },
+        "r": {
+            "cons": true,
+            "vowel": false,
+            "aspirated": false
+        },
+        "0": {
+            "stress": false
+        },
+        "n": {
+            "cons": true,
+            "vowel": false,
+            "aspirated": false
+        },
+        "gh": {
+            "cons": true,
+            "vowel": false,
+            "aspirated": true
+        },
+        "ṣ": {
+            "cons": true,
+            "vowel": false,
+            "aspirated": false
+        },
+        "bh": {
+            "cons": true,
+            "vowel": false,
+            "aspirated": true
+        },
+        "ph": {
+            "cons": true,
+            "vowel": false,
+            "aspirated": true
+        },
+        "e": {
+            "cons": false,
+            "vowel": true,
+            "long": false
+        },
+        "u": {
+            "cons": false,
+            "vowel": true,
+            "long": false
+        },
+        "a": {
+            "cons": false,
+            "vowel": true,
+            "long": false
+        },
+        "s": {
+            "cons": true,
+            "vowel": false,
+            "aspirated": false
+        },
+        "1": {
+            "stress": true
+        },
+        "i": {
+            "cons": false,
+            "vowel": true,
+            "long": false
+        },
+        "uː": {
+            "cons": false,
+            "vowel": true,
+            "long": true
+        },
+        "k": {
+            "cons": true,
+            "vowel": false,
+            "aspirated": false
+        }
+    }
+}

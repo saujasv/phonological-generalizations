@@ -1,0 +1,225 @@
+{
+    "languages": [
+        "Turkish",
+        " Tatar"
+    ],
+    "families": [
+        "Altaic"
+    ],
+    "type": "multilingual",
+    "ipa": false,
+    "columns": [
+        "Turkish",
+        "Tatar"
+    ],
+    "data": [
+        [
+            "b a n d ı r",
+            "m a n d ı r"
+        ],
+        [
+            "y e l k e n",
+            "c i l k ä n"
+        ],
+        [
+            "o n u n c u",
+            "u n ı n ç ı"
+        ],
+        [
+            "b a y t a r",
+            "b a y t a r"
+        ],
+        [
+            "y i ğ i r m i",
+            "y e g e r m e"
+        ],
+        [
+            "b e n c i l",
+            "m i n ç e l"
+        ],
+        [
+            "g ü r e ş",
+            "k ö r ä ş"
+        ],
+        [
+            "i ş l e s e m",
+            "e ş l ä s ä m"
+        ],
+        [
+            "b ü y ü k",
+            "b ö y e k"
+        ],
+        [
+            "y ı l d ı r ı m",
+            "y ı l d ı r ı m"
+        ],
+        [
+            "b u n d a",
+            "m o n d a"
+        ],
+        [
+            "y e t i ş t i r",
+            "c i t e ş t e r"
+        ],
+        [
+            "g ö ğ e r",
+            "k ü g ä r"
+        ],
+        [
+            "b o z a c ı",
+            "b u z a ç ı"
+        ],
+        [
+            "g e r e k l i",
+            "k i r ä k l e"
+        ],
+        [
+            "b o y u n",
+            "m u y ı n"
+        ],
+        [
+            "u z u n",
+            "o z ı n"
+        ],
+        [
+            "y ö n e l i ş",
+            "y ü n ä l e ş"
+        ],
+        [
+            "u s t a",
+            "o s t a"
+        ],
+        [
+            "b i l e z i k",
+            "b e l ä z e k"
+        ],
+        [
+            "g ö z e n e k",
+            "k ü z ä n ä k"
+        ],
+        [
+            "ü s t ü n d e",
+            "ö s t e n d ä"
+        ],
+        [
+            "y ı l a n",
+            "y ı l a n"
+        ],
+        [
+            "b i n",
+            "m e n"
+        ],
+        [
+            "y e d i ş e r",
+            "c i d e ş ä r"
+        ],
+        [
+            "y u m r u",
+            "y o m r ı"
+        ]
+    ],
+    "notes": "",
+    "test_set": true,
+    "features": {
+        "s": {
+            "cons": true,
+            "vowel": false
+        },
+        "ş": {
+            "cons": true,
+            "vowel": false
+        },
+        "a": {
+            "cons": false,
+            "vowel": true
+        },
+        "c": {
+            "cons": true,
+            "vowel": false
+        },
+        "m": {
+            "cons": true,
+            "vowel": false
+        },
+        "d": {
+            "cons": true,
+            "vowel": false
+        },
+        "k": {
+            "cons": true,
+            "vowel": false
+        },
+        "ü": {
+            "cons": false,
+            "vowel": true
+        },
+        "y": {
+            "cons": true,
+            "vowel": false
+        },
+        "g": {
+            "cons": true,
+            "vowel": false
+        },
+        "ö": {
+            "cons": false,
+            "vowel": true
+        },
+        "e": {
+            "cons": false,
+            "vowel": true
+        },
+        "ğ": {
+            "cons": true,
+            "vowel": false
+        },
+        "ä": {
+            "cons": false,
+            "vowel": true
+        },
+        "n": {
+            "cons": true,
+            "vowel": false
+        },
+        "l": {
+            "cons": true,
+            "vowel": false
+        },
+        "o": {
+            "cons": false,
+            "vowel": true
+        },
+        "z": {
+            "cons": true,
+            "vowel": false
+        },
+        "ç": {
+            "cons": true,
+            "vowel": false
+        },
+        "b": {
+            "cons": true,
+            "vowel": false
+        },
+        "ı": {
+            "cons": false,
+            "vowel": true
+        },
+        "u": {
+            "cons": false,
+            "vowel": true
+        },
+        "r": {
+            "cons": true,
+            "vowel": false
+        },
+        "t": {
+            "cons": true,
+            "vowel": false
+        },
+        "i": {
+            "cons": false,
+            "vowel": true
+        }
+    }
+}

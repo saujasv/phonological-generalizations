@@ -1,0 +1,162 @@
+{
+    "languages": [
+        "Hawaiian",
+        "Maori",
+        "Nuku Hiva",
+        "Rarotonga",
+        "Samoa"
+    ],
+    "families": [
+        "Polynesian",
+        "Polynesian",
+        "Polynesian",
+        "Polynesian",
+        "Polynesian"
+    ],
+    "type": "multilingual",
+    "ipa": false,
+    "columns": [
+        "Hawaiian",
+        "Maori",
+        "Nuku Hiva",
+        "Rarotonga",
+        "Samoa"
+    ],
+    "data": [
+        [
+            "k a h i",
+            "t a h i",
+            "t a h i",
+            "t a ' i",
+            "t a s i"
+        ],
+        [
+            "l u a",
+            "r u a",
+            "' u a",
+            "r u a",
+            "l u a"
+        ],
+        [
+            "k o l u",
+            "t o r u",
+            "t o ' u",
+            "t o r u",
+            "t o l u"
+        ],
+        [
+            "h a",
+            "wh a",
+            "h a",
+            "' a",
+            "f a"
+        ],
+        [
+            "l i m a",
+            "r i m a",
+            "' i m a",
+            "r i m a",
+            "l i m a"
+        ],
+        [
+            "o n o",
+            "o n o",
+            "o n o",
+            "o n o",
+            "o n o"
+        ],
+        [
+            "h i k u",
+            "wh i t u",
+            "h i t u",
+            "' i t u",
+            "f i t u"
+        ],
+        [
+            "w a l u",
+            "w a r u",
+            "v a ' u",
+            "v a r u",
+            "v a l u"
+        ],
+        [
+            "i w a",
+            "i w a",
+            "i v a",
+            "i v a",
+            "i v a"
+        ]
+    ],
+    "notes": "' and wh are specific consonants",
+    "test_set": true,
+    "features": {
+        "m": {
+            "cons": true,
+            "vowel": false
+        },
+        "h": {
+            "cons": true,
+            "vowel": false
+        },
+        "r": {
+            "cons": true,
+            "vowel": false
+        },
+        "o": {
+            "cons": false,
+            "vowel": true
+        },
+        "v": {
+            "cons": true,
+            "vowel": false
+        },
+        "s": {
+            "cons": true,
+            "vowel": false
+        },
+        "l": {
+            "cons": true,
+            "vowel": false
+        },
+        "i": {
+            "cons": false,
+            "vowel": true
+        },
+        "k": {
+            "cons": true,
+            "vowel": false
+        },
+        "w": {
+            "cons": true,
+            "vowel": false
+        },
+        "'": {
+            "cons": true,
+            "vowel": false
+        },
+        "u": {
+            "cons": false,
+            "vowel": true
+        },
+        "wh": {
+            "cons": true,
+            "vowel": false
+        },
+        "n": {
+            "cons": true,
+            "vowel": false
+        },
+        "f": {
+            "cons": true,
+            "vowel": false
+        },
+        "t": {
+            "cons": true,
+            "vowel": false
+        },
+        "a": {
+            "cons": false,
+            "vowel": true
+        }
+    }
+}

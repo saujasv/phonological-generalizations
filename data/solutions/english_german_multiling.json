@@ -1,0 +1,218 @@
+{
+    "languages": [
+        "English",
+        " German"
+    ],
+    "families": [
+        "Indo-European",
+        " Indo-European"
+    ],
+    "type": "multilingual",
+    "ipa": false,
+    "columns": [
+        "German",
+        "English"
+    ],
+    "data": [
+        [
+            "s o",
+            "s o"
+        ],
+        [
+            "d a s   b a d",
+            "t h e   b a t h"
+        ],
+        [
+            "d i c k",
+            "t h i c k"
+        ],
+        [
+            "d e r   f i n g e r",
+            "t h e   f i n g e r"
+        ],
+        [
+            "b r i n g e n",
+            "t o   b r i n g"
+        ],
+        [
+            "r e i f",
+            "r i p e"
+        ],
+        [
+            "s c h a r f",
+            "s h a r p"
+        ],
+        [
+            "d e r   b u s c h",
+            "t h e   b u s h"
+        ],
+        [
+            "d a s   b i e r",
+            "t h e   b e e r"
+        ],
+        [
+            "f e i n",
+            "f i n e"
+        ],
+        [
+            "b e i ß e n",
+            "t o   b i t e"
+        ],
+        [
+            "d a s   t i e r",
+            "t h e   d e e r"
+        ],
+        [
+            "t r i n k e n",
+            "t o   d r i n k"
+        ],
+        [
+            "w e i t",
+            "w i d e"
+        ],
+        [
+            "f a l l e n",
+            "t o   f a l l"
+        ],
+        [
+            "d a s   d i n g",
+            "t h e   t h i n g"
+        ],
+        [
+            "g r e i f e n",
+            "t o   g r i p e"
+        ],
+        [
+            "f e i l e n",
+            "t o   f i l e"
+        ],
+        [
+            "d e r   g a r t e n",
+            "t h e   g a r d e n"
+        ],
+        [
+            "d e r   w e i n",
+            "t h e   w i n e"
+        ],
+        [
+            "g l e i t e n",
+            "t o   g l i d e"
+        ],
+        [
+            "d a s   w a s s e r",
+            "t h e   w a t e r"
+        ],
+        [
+            "d a n k e n",
+            "t o   t h a n k"
+        ],
+        [
+            "d e i n",
+            "t h i n e"
+        ],
+        [
+            "w a s c h e n",
+            "t o   w a s h"
+        ],
+        [
+            "r e i t e n",
+            "t o   r i d e"
+        ],
+        [
+            "s i n g e n",
+            "t o   s i n g"
+        ],
+        [
+            "s c h e i n e n",
+            "t o   s h i n e"
+        ],
+        [
+            "t i e f",
+            "d e e p"
+        ]
+    ],
+    "notes": "",
+    "test_set": true,
+    "features": {
+        "s": {
+            "cons": true,
+            "vowel": false
+        },
+        "a": {
+            "cons": false,
+            "vowel": true
+        },
+        "c": {
+            "cons": true,
+            "vowel": false
+        },
+        "f": {
+            "cons": true,
+            "vowel": false
+        },
+        "w": {
+            "cons": true,
+            "vowel": false
+        },
+        "d": {
+            "cons": true,
+            "vowel": false
+        },
+        "k": {
+            "cons": true,
+            "vowel": false
+        },
+        "g": {
+            "cons": true,
+            "vowel": false
+        },
+        "ß": {
+            "cons": true,
+            "vowel": false
+        },
+        "e": {
+            "cons": false,
+            "vowel": true
+        },
+        "n": {
+            "cons": true,
+            "vowel": false
+        },
+        "h": {
+            "cons": true,
+            "vowel": false
+        },
+        "l": {
+            "cons": true,
+            "vowel": false
+        },
+        "o": {
+            "cons": false,
+            "vowel": true
+        },
+        "b": {
+            "cons": true,
+            "vowel": false
+        },
+        "p": {
+            "cons": true,
+            "vowel": false
+        },
+        "u": {
+            "cons": false,
+            "vowel": true
+        },
+        "r": {
+            "cons": true,
+            "vowel": false
+        },
+        "t": {
+            "cons": true,
+            "vowel": false
+        },
+        "i": {
+            "cons": false,
+            "vowel": true
+        }
+    }
+}

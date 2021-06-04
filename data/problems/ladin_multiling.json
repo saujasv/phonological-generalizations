@@ -1,0 +1,160 @@
+{
+    "languages": [
+        "Ladin"
+    ],
+    "families": [
+        "Indo-European"
+    ],
+    "type": "multilingual",
+    "ipa": false,
+    "columns": [
+        "Ladin",
+        "Italian"
+    ],
+    "data": [
+        [
+            "i a t",
+            "g a t t o"
+        ],
+        [
+            "b o ć i a",
+            "b o c c a"
+        ],
+        [
+            "f u r n",
+            "f o r n o"
+        ],
+        [
+            "ć i a m p",
+            "c a m p o"
+        ],
+        [
+            "b a n c h",
+            "b a n c o"
+        ],
+        [
+            "p a n",
+            "p a n e"
+        ],
+        [
+            "?",
+            "g a l l o"
+        ],
+        [
+            "?",
+            "o r t o"
+        ],
+        [
+            "?",
+            "a g n e l l o"
+        ],
+        [
+            "?",
+            "c a n e"
+        ],
+        [
+            "?",
+            "c a v a l l o"
+        ],
+        [
+            "?",
+            "b o s c o"
+        ],
+        [
+            "?",
+            "v a c c a"
+        ],
+        [
+            "?",
+            "t a s s o"
+        ],
+        [
+            "?",
+            "f o r c a"
+        ],
+        [
+            "?",
+            "b i r r a"
+        ]
+    ],
+    "notes": "",
+    "test_set": true,
+    "features": {
+        "s": {
+            "cons": true,
+            "vowel": false
+        },
+        "v": {
+            "cons": true,
+            "vowel": false
+        },
+        "a": {
+            "cons": false,
+            "vowel": true
+        },
+        "ć": {
+            "cons": true,
+            "vowel": false
+        },
+        "c": {
+            "cons": true,
+            "vowel": false
+        },
+        "f": {
+            "cons": true,
+            "vowel": false
+        },
+        "m": {
+            "cons": true,
+            "vowel": false
+        },
+        "g": {
+            "cons": true,
+            "vowel": false
+        },
+        "e": {
+            "cons": false,
+            "vowel": true
+        },
+        "n": {
+            "cons": true,
+            "vowel": false
+        },
+        "h": {
+            "cons": true,
+            "vowel": false
+        },
+        "l": {
+            "cons": true,
+            "vowel": false
+        },
+        "o": {
+            "cons": false,
+            "vowel": true
+        },
+        "b": {
+            "cons": true,
+            "vowel": false
+        },
+        "p": {
+            "cons": true,
+            "vowel": false
+        },
+        "u": {
+            "cons": false,
+            "vowel": true
+        },
+        "r": {
+            "cons": true,
+            "vowel": false
+        },
+        "t": {
+            "cons": true,
+            "vowel": false
+        },
+        "i": {
+            "cons": false,
+            "vowel": true
+        }
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "languages": [
+        "Chickasaw"
+    ],
+    "families": [
+        "Muskogean"
+    ],
+    "type": "stress",
+    "ipa": false,
+    "columns": [
+        "Word",
+        "Stress placement"
+    ],
+    "data": [
+        [
+            "t͡ʃ o k aː n o",
+            "0 0 0 1 0 2"
+        ],
+        [
+            "l o k t͡ʃ o k",
+            "0 2 0 0 1 0"
+        ],
+        [
+            "aː t͡ʃ o m p a ʔ",
+            "1 0 2 0 0 2 0"
+        ],
+        [
+            "i b i ɬ k a n",
+            "0 0 2 0 0 1 0"
+        ],
+        [
+            "ʃ a n t i ʔ",
+            "0 2 0 0 1 0"
+        ],
+        [
+            "s aː ɬ k o n a",
+            "0 1 0 0 0 0 2"
+        ],
+        [
+            "t͡ʃ o n k a ʃ",
+            "0 2 0 0 1 0"
+        ],
+        [
+            "f a l aː t",
+            "0 0 0 1 0"
+        ],
+        [
+            "m a ʃ k oː k i ʔ",
+            "0 2 0 0 1 0 2 0"
+        ],
+        [
+            "o k f o k k o l",
+            "2 0 0 2 0 0 1 0"
+        ],
+        [
+            "t a l aː n o m p a ʔ",
+            "0 0 0 1 0 2 0 0 2 0"
+        ],
+        [
+            "n aː ɬ t o k a ʔ",
+            "0 1 0 0 0 0 2 0"
+        ],
+        [
+            "a b oː k o ʃ i ʔ",
+            "0 0 1 0 0 0 2 0"
+        ],
+        [
+            "n o t a k f a",
+            "0 0 0 2 0 0 1"
+        ],
+        [
+            "t͡ʃ i k a ʃ ʃ a ʔ",
+            "0 0 0 2 0 0 1 0"
+        ],
+        [
+            "o k t͡ʃ aː l i n t͡ʃ i ʔ",
+            "2 0 0 1 0 2 0 0 2 0"
+        ],
+        [
+            "t a ʔ o s s aː p o n t a ʔ",
+            "?"
+        ],
+        [
+            "ʃ i m m a n oː l i ʔ",
+            "?"
+        ],
+        [
+            "k a n a n n a k",
+            "?"
+        ],
+        [
+            "ʃ iː k i",
+            "?"
+        ],
+        [
+            "i n t i k b aː t",
+            "?"
+        ],
+        [
+            "o k t aː k",
+            "?"
+        ]
+    ],
+    "notes": "ː indicates length.",
+    "test_set": true,
+    "features": {
+        "t͡ʃ": {
+            "cons": true,
+            "vowel": false
+        },
+        "t": {
+            "cons": true,
+            "vowel": false
+        },
+        "iː": {
+            "cons": false,
+            "vowel": true,
+            "long": true
+        },
+        "o": {
+            "cons": false,
+            "vowel": true,
+            "long": false
+        },
+        "oː": {
+            "cons": false,
+            "vowel": true,
+            "long": true
+        },
+        "2": {
+            "primary": false,
+            "secondary": true
+        },
+        "f": {
+            "cons": true,
+            "vowel": false
+        },
+        "p": {
+            "cons": true,
+            "vowel": false
+        },
+        "ʃ": {
+            "cons": true,
+            "vowel": false
+        },
+        "aː": {
+            "cons": false,
+            "vowel": true,
+            "long": true
+        },
+        "m": {
+            "cons": true,
+            "vowel": false
+        },
+        "ʔ": {
+            "cons": true,
+            "vowel": false
+        },
+        "0": {
+            "primary": false,
+            "secondary": false
+        },
+        "n": {
+            "cons": true,
+            "vowel": false
+        },
+        "b": {
+            "cons": true,
+            "vowel": false
+        },
+        "l": {
+            "cons": true,
+            "vowel": false
+        },
+        "a": {
+            "cons": false,
+            "vowel": true,
+            "long": false
+        },
+        "s": {
+            "cons": true,
+            "vowel": false
+        },
+        "ɬ": {
+            "cons": true,
+            "vowel": false
+        },
+        "1": {
+            "primary": true,
+            "secondary": false
+        },
+        "i": {
+            "cons": false,
+            "vowel": true,
+            "long": false
+        },
+        "k": {
+            "cons": true,
+            "vowel": false
+        }
+    }
+}
