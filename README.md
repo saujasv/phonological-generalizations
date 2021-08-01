@@ -1,5 +1,7 @@
 This repository contains the dataset used in _Sample-efficient Linguistic Generalizations through Program Synthesis: Experiments with Phonology Problems_ (SIGMORPHON 2021).
 
+[\[ACL Anthology\]](https://aclanthology.org/2021.sigmorphon-1.7/) [\[arXiv\]] (https://arxiv.org/abs/2106.06566)
+
 ## Dataset
 The dataset is in the `data/` folder, with problems in `data/problems` and solutions in `data/solutions`. Each problem and solution is presented as a JSON file with the following fields
 
